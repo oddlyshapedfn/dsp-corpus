@@ -1,0 +1,94 @@
+## https://archive.supercombo.gg/t/use-of-consoles-at-evo2k4/5065/125
+A lot of people have thrown their hat into the ring here, and I think I should too. As a former tournament organizer, I know the problems that come along with consoles. So here’s what I feel is not going to work at EVO:
+
+No matter what game you’re playing, no matter what console, when you force people to bring their own sticks, you have problems. And here’s why:
+
+1. A lot of players who are into certain games…namely the CvS2 and MvC2 crowds…do not play those games on console on a consistent basis. The majority of the “top-players” in these games learned them in arcades. In fact, unlike a lot of games like SC2, Tekken, GGXX, and others, these games are played primarily in arcades, because they actually make money; it’s easy to find them in arcades, unlike the other games.
+
+Switching over to a console is basically going to leave the majority of educated players, who learned these games in arcades, at a disadvantage, being used to playing on an arcade-level cabinet that is stationary. By switching these two particular games over to console, you are actually giving an unfair advantage to those who have played the games seriously on this format before, while handicapping a lot of America’s top players who refuse to play on console.
+
+2. Going along with the above, not all players own their own console sticks. I’ve been playing MvC2 since the day the japanese copy was released, but I never owned a console stick until a month or so ago…and it’s a shitty agetec. But that’s just an example.
+
+You’re going to have a significant number of players coming to EVO that do not own their own sticks, or do not feel confident playing on them in a tournament. So you’re going to need a LOT of loaners unless you want to see hundreds of DQs, or lots of delays.
+
+Another problem comes up if someone enters multiple tournaments. Should someone be expected to bring a DC stick for Capcom games, and then a PS2 stick for GGXX and 3d games? That’s a lot of baggage to be carrying around, and I really doubt it’s going to work out if everybody is walking around with a joystick.
+
+3. Maintaining who’s stick is whose is going to be a fucking nightmare. Trust me on this one. Shit is going to get stolen like crazy, and you’re going to have no way to prove anything, or kick anybody out who you catch UNLESS you hire some hardcore security.
+
+4. If a stick/button breaks on an arcade cab, you can fix it in seconds. If one breaks on a console stick…especially during a serious tournament like EVO where they will be played on more and harder than ever before…it’s going to be another nightmare to get them fixed. Some sticks like Agetecs can’t have their switches replaced, and some of these kids won’t have a clue what to do to fix the stick. That’s an auto DQ simply because of a stick malfunction, and it will cause a lot of controversy and complaints.
+
+5. It’s pretty much accepted that when you combine certain sticks, namely an Agetec with a MAS stick, you can have some serious probs with burning out controller ports, or random pauses, on a DC. There is nothing at all you can do to remedy this situation. You’re just going to have to tell one or the other player that they can’t play on their favorite stick, and that’s just not fair. Or else you’re going to have to replace the ports on numerous DCs, and figure out how to deal with random pauses.
+
+6. This is pretty much MvC2-specific, but considering that (ignoring Smash Brothers…) MvC2 will be the biggest numbers draw of any game at EVO…
+
+MvC2 is a game that absolutely demands a sturdy, steady base to play on. Marvel is the most control-invensive fighting game ever created…pressing down, then up hard on a stick, jerking down-forward while smashing two punches together, then pressing several more buttons…fast flying with sent…and lot of of other stuff just REQUIRES stationary controls.
+
+There is no way to get around this. I’ve tried to emulate playing on an arcade cab at home in numerous ways…including strapping down a joystick to a chair and trying to get it to stay still…and the ONLY way to get this to work is to physically glue something down. Which won’t be feasible at EVO.
+
+Having MvC2 on console at EVO benefits no one. Nobody is going to care that there is more time for casual play if they can’t do anything in the tourney, simply because of controls. If you want to have a casual play section for MvC2, then make it separate, and make it console. But the tournament should absolutely be played on arcade cabinets, 100% of the time…not just finals.
+
+If anyone disagrees with this, I guarantee you either 1. have played MvC2 on console from day 1, and so are either used to playing on your own personal stick, or simply don’t do advanced tactics like fast fly, or 2. you are biased because you either don’t like MvC2, or don’t play it.
+
+I look forward to discussing this topic further.
+
+## https://archive.supercombo.gg/t/use-of-consoles-at-evo2k4/5065/159
+This, of course, coming from somebody who has actually played SF within the past 4 years.
+
+WHOOPS, I’m wrong. I’m sure you play MvC2 at top levels, right Joe?
+
+Listening to Joe criticise MvC2 players for wanting stable controls is like listening to Bill Gates criticise NFL players for wanting tighter shoulderpads.
+
+## https://archive.supercombo.gg/t/use-of-consoles-at-evo2k4/5065/268
+In response to the post about Justin/Sanford/Desmond/Wigfall getting top 4, in the same order, at both arcade and console tournies…
+
+…I think it should be noted that next to nobody who can beat those four were at the console tourney to begin with. Besides Philly, who all of the tri-state area own for free on a regular basis. We’ve won so much money from those guys that it’s not even funny.
+
+If you’re going to illustrate a point, get your facts straight. If the top 4 placers at a console tourney are the best players there, totally on another level from everyone else, then they’re obviously going to get top 4 whether its on console or not. But at EVO, where people of arguably equal skill level play, then there’s going to be bloody murder when someone can’t fast fly, or superjump, or pushblock, and instead eat four viper beams because it’s console.
+
+I smell upset.
+
+## https://archive.supercombo.gg/t/use-of-consoles-at-evo2k4/5065/513
+Someone asked what the criteria that SRK are using to see if a console version of a game is “close enough” to be used instead of arcade version.
+
+The answer?
+
+There are no criteria. SRK has consulted no one on the matter, besides those close to SRK. Namely the staff and a handful of OG players.
+
+If you’ve been reading, you would know that about 90% of the top MvC2 players who post on SRK have come out against the console switch.
+
+3s was decided to be on supergun. Why? Why does 3s get different treatment from MvC2? There was no reasoning or rationale for this. The differences in 3s between arcade and console…namely Urien’s infinites/juggles being changed/removed and the removal of some links and other minor tweaks here and there…are just as superficial as the speed/damage and character changes in MvC2 (namely Anakaris). Let’s face it, the one or two people who are good enough to do the Urien infinite stuff on the arcade 3s would be just as pissed off about a console switch, as Viscant is about not being able to play Anakaris now that MvC2 is console. The only difference is…nothing.
+
+SRK has decided to be favortistic to 3s players by using supergun setups and original arcade boards. But no reasoning has been given to why this won’t be done with MvC2 besies “Naomi games are weird with supergun.”
+
+Also, ST is being played on DC. If you know anything about ST, you know that DC ST is totally different from arcade. First and foremost, there is a HUGE lag from when the game says FIGHT and you can actually move your player. So the beginning of every round is totally different from what you can do on arcade. On top of that, the size and reach of characters has been changed. So has some damage scaling and some links. Basically DC ST is a game KIND of like arcade ST, but not really. There are enough significant changes to call it a totally different game. But NOBODY HAS PLAYED THIS VERSION SERIOUSLY ENOUGH in a competitive environment to notice these changes. I’m willing to bet that a lot of players will have a rude awakening come EVO.
+
+However, the OG players (who primarily play ST) that are “Friends of SRK” have said they’re going to make a sacrifice and accept this version. There really hasn’t been any real justification of this. My guess is that they’re doing it for the good of EVO, since it’s going to be all console anyway, and it’s not worth putting up a stink about. ST will probably have the lowest turnout of the four SF games at EVO anyway. But it’s still interesting to note that nobody has come out and said how different DC ST is from the arcade version.
+
+So, there are no criteria to judge how close a version is to arcade and if the console version is acceptable. If there were criteria, MvC2 would be played on superguns just like 3s. It’s pretty much just those in charge deciding random things with no rationale behind it at all.
+
+At least, that’s what we’re left to think. Since nobody has come on and given any legitimate reason for what’s being done with 3s. But I guess it doesn’t matter since we’re not part of SRK, and we’re all going to attend EVO. We’re not important enough to know…
+
+## https://archive.supercombo.gg/t/use-of-consoles-at-evo2k4/5065/520
+Sigh.
+
+More hate. Which is to be expected I guess. SRK hasn’t legitimately discussed any of this, only hated on those who speak up against it. For example, take a look at Seth’s Domination 101 post. Give me a break.
+
+No, I didn’t know every difference in 3s. But I would argue that all of those minor gameplay/strat differences probably EQUAL the damage difference in MvC2. I don’t know if you’ve ever played the game, but losing Sentinel in ONE LESS AHVB than in arcade is pretty fucking annoying. There is nothing you can do to make the damage the same.
+
+But the reason it hasn’t been addressed is because, again, very VERY few people have had serious MvC2 tournies on console. Arcade has always been the standard. If there were console, it pretty much amounted to “a bunch of scrubs, and Justin” in which case the damage difference makes ZERO impact. But at EVO, it’s going to make an Impact.
+
+You’re going to see Cable dominate even more, along with more chipping strategies, because damage and chip are accentuated. No, it doesn’t make a character totally different (like Urien in 3s) but it DOES totally change the balance of power in the game. Cable now slightly edges out Sentinel IMO because if you catch him with two viper beams, he has 1% life left. Teams that normally get beaten pretty fast will now hold out even longer…maybe enough to get an extra win or two in the Round Robin pools…edging out over other players who normally would win on arcade.
+
+Jump back Cable/Doom becomes near godlike. Eddie Lee is going to get top 10 at EVO if he goes and uses that team, because the chip damage is around 10% more. Considering that the RR pools are two out of three, you’re basically making it a handicap for anyone who hasn’t played console and didn’t know that chip is more effective on DC.
+
+But I guess it doesn’t matter, because the only character that’s totally unplayable is Anakaris. Maybe if MvC2 was a “straight-up” fighter, more people would care. But the VS series has always been the bastard son of SF, so it’s not surprising that nobody in charge really gives a damn.
+
+## https://archive.supercombo.gg/t/use-of-consoles-at-evo2k4/5065/522
+The immediate issues were always the control issues, because let’s face it, in NO other game do you mash like you do in MvC2, and so you’re more likely to accidentally pause the game or go into “analog mode” a.k.a. screw yourself in the ass mode.
+
+But nobody has really brought up the other issues for this reason: there have been very few serious MvC2 console tournaments. Nobody would have noticed the differences unless they’ve played in a few console tournies. I myself have played in a few and I noticed the probs. Then I went online and talked to a few people, like Justin Wong and other notable players who are good at noticing things like that, and they confirmed.
+
+In casual play the differences won’t matter. That’s why nobody really cares up to this point. But when you get into a serious tourney atmosphere, and you die to Doom chip, you’ll be like “WTF just happened? That’s not like that on arcade” and so on. There are going to be a few upsets and a lot of whining about results since most people don’t know about these differences.
+
+And when Sentinel dies super fast to viper beams, all hell will break loose.
+

@@ -1,0 +1,4250 @@
+Here's everything DSP said in chat. I checked, he didn't do any emote lines aka /me e.g. * darksydephil waves 
+hello! 
+
+Check the individual logs for any context you need. 
+
+-#DARKSYDEPHIL 20161129-02 FFXV 2ND (RETURN TO TWITCH).LOG 
+
+[16:53] <darksydephil> oh man the waffle haha 
+
+[16:56] <darksydephil> jared999wally do you mean with twitch prime? be three people have already used it and 
+it worked 
+
+[16:56] <darksydephil> i just dont know the proper process 
+[16:57] <darksydephil> we can get nightbot cak in here i guess 
+[16:57] <darksydephil> back 
+
+[16:58] <darksydephil> yeah we used to have it, but it had issues often 
+
+[17:00] <darksydephil> 80 second slowmode lol 
+
+[17:00] <darksydephil> gotta fix that 
+
+[17:02] <darksydephil> sorry drilbit 
+
+[17:02] <darksydephil> old mods are out 
+
+[17:03] <darksydephil> i havent seen you in over 2 years and weren’t you part of the people who revolted when i 
+left? 
+
+[17:03] <darksydephil> no thanks lol 
+
+[17:03] <darksydephil> well im not a moron, so you're unmodded lol 
+
+[17:04] <darksydephil> ok folks im off to eat, tonight should be quite nuts, vids are uploading now 
+[18:58] <darksydephil> ok setting up now 
+
+[18:58] <darksydephil> should be live shortly, let's see if ti works 
+[18:58] <darksydephil> give me a sec 
+[18:59] <darksydephil> ryugahidekl: don't be an idiot 
+[18:59] <darksydephil> popsicolo is that you? 
+
+[19:00] <darksydephil> can you confirm via the other stream chat? just wnat to make sure you're legit before i op 
+[19:01] <darksydephil> ok good 
+
+[19:01] <darksydephil> im ging to turn on the stream and we’ll see what happens 
+
+[19:01] <darksydephil> fingers crossed lol 
+
+[19:04] <darksydephil> ok pops let me check my laptop 
+
+[19:04] <darksydephil> gotcha popsicolo 
+
+[19:05] <darksydephil> np sir 
+
+[19:06] <darksydephil> LOL did someone just make a bacon grease in the toilet joke? from 2009? holy *** 
+[19:06] <darksydephil> thats...very old 
+
+[19:11] <darksydephil> im not taking outright donations, but patreon/subs/cheers or whatever is fine 
+[19:12] <darksydephil> ok time to start talking i guess 
+
+[20:35] <darksydephil> just got my emotes enabled for my own use /surpriseddsp 
+
+[20:35] <darksydephil> oops 
+
+[20:35] <darksydephil> or not 
+
+[20:35] <darksydephil> lol 
+
+[20:35] <darksydephil> i might need a refresh lol 
+
+[21:44] <darksydephil> thanks folks for a great night 
+
+[21:44] <darksydephil> hopefully people will come back tomorrow for the normal streams, i know this was a late 
+one 
+
+[21:45] <darksydephil> i dont know what twitch alerts is 
+
+[21:45] <darksydephil> all i need is a listing of who subbed/threw me some bits when, thats it 
+[21:46] <darksydephil> it looks like i got 20 subs today, but no idea who they are 
+[21:46] <darksydephil> why wouldn’t they be? 
+
+[21:46] <darksydephil> who would have stayed subbed for 2 years after i left? lol 
+
+
+#DARKSYDEPHIL 20161130-01 FFXV 3RD.LOG 
+
+
+
+
+
+[11:32] <darksydephil> hello, anybody here? 
+
+[11:33] <darksydephil> so im gonna try and find out how to use a 3rd party service to see who subs etc 
+[11:34] <darksydephil> done 
+
+[11:34] <darksydephil> and streamlabs apparently is super simple to use 
+[11:35] <darksydephil> nice! 
+
+[11:35] <darksydephil> thanks datmeece that actually just helped me test it! 
+
+[11:35] <darksydephil> it shows that you just gave those bits 
+[11:35] <darksydephil> and it lists all new subs 
+
+[11:35] <darksydephil> i can even see follows but thats not needed right now 
+
+[11:35] <darksydephil> this is super easy, very nice 
+
+[11:36] <darksydephil> this thing can be pretty elaborate 
+
+[11:36] <darksydephil> you can set it up with OBS to show the pop ups for thank yous etc, but im not gonna do 
+that 
+
+[11:36] <darksydephil> it can also be used to set up donation drives 
+
+[11:36] <darksydephil> like, for actual charity OR for raising funds to buy something on a stream 
+[11:36] <darksydephil> pretty interesting 
+
+[11:37] <darksydephil> so i got 4 new subs overnight even when i wasn't streaming lol 
+[11:38] <darksydephil> i got 50 new followers since last night 
+
+[11:39] <darksydephil> probably people whov'e just started watching me in the last 2 years 
+
+[11:40] <darksydephil> i have not 
+
+[11:40] <darksydephil> baby steps 
+
+[11:40] <darksydephil> lol 
+
+[11:40] <darksydephil> thats fine bethe2670 
+
+[11:40] <darksydephil> oh wow, they improved chat here too, pressing tab autocompletes names, thats nw 
+[11:40] <darksydephil> new 
+[11:41] <darksydephil> thanks tazzy! 
+
+[11:42] <darksydephil> today should be fun. we're passed the intro stuff in ffxv now 
+[11:43] <darksydephil> sweet wassaup Darknightmaredzero 
+
+[11:43] <darksydephil> looking like this is going to be far more social than my youtube streams, which is good 
+
+[11:44] <darksydephil> ok im on the desktop, let me get this set up on the laptop now 
+
+[11:44] <darksydephil> right now minimum bits to get your message stickied is 10 
+
+[11:44] <darksydephil> and i think the minimum is 10 overall too 
+
+[11:44] <darksydephil> yeah i changed it 
+
+[11:44] <darksydephil> after you guys told me about it 
+
+[11:46] <darksydephil> you guys want nightbot back? 
+
+[11:46] <darksydephil> if you know how to use nightbot already ill get it 
+[11:46] <darksydephil> i USED to know, but ive forgotten 
+
+[11:47] <darksydephil> if its paid-for die, i dont care, i probably wont get the die or season pass 
+[11:48] <darksydephil> ok did nightbot join? 
+
+[11:48] <darksydephil> aha 
+
+[11:49] <darksydephil> well enjoy, i know nightbot was very useful before 
+[11:49] <darksydephil> untl it stopped working from time to time lol 
+[11:49] <darksydephil> ok im going to start setting up the stream now! 
+
+[11:49] <darksydephil> CarefreeCanuck thanks im actually using it, JUST set it up like 10 minutes ago! 
+
+[11:53] <darksydephil> ok tim eto set up steamlabs on the laptop 
+
+[11:53] <darksydephil> WTF why is my dashboard saying i ran a commercial lol 
+
+[11:54] <darksydephil> oh ok, whats the authorization command? 
+
+[11:54] <darksydephil> ill do it right now 
+[11:56] <darksydephil> oh. well it doesn't work 
+
+[11:56] <darksydephil> it says i need a nightbot user ID, not a twitch one 
+
+[11:56] <darksydephil> and i have no idea how you get that 
+
+[11:56] <darksydephil> i thi nk YOU GUYS have to log into nightbot 
+
+
+
+[11:56] <darksydephil> and it gives you a unique ID 
+
+[11:57] <darksydephil> in th eupper righthand corner of the browser 
+
+[11:57] <darksydephil> and i have to add those 
+
+[11:57] <darksydephil> this is far more complicated than it used to be lol 
+[11:59] <darksydephil> i dont think my PMS work 
+
+[11:59] <darksydephil> i think they were disabled when i deactivated the account 
+[11:59] <darksydephil> be theres non in there since 2014 
+[11:59] <darksydephil> ok marie you're added 
+
+[12:00] <darksydephil> ok everything seems in order, im going to start the stream now 
+[12:00] <darksydephil> stream starts right now lol 
+[12:07] <darksydephil> good to see you static 
+
+[12:07] <darksydephil> one of the few holdouts from the old mod staff 
+
+[12:08] <darksydephil> yeah today's stream starts with the story, its unavoidable, i cant do anything else lol 
+
+[12:08] <darksydephil> ok let me tweet that we’re live 
+
+[12:16] <darksydephil> *** shitballs 
+
+[12:16] <darksydephil> could you guys see that? 
+
+[12:16] <darksydephil> or was it censored lol 
+[12:16] <darksydephil> LOL 
+[12:16] <darksydephil> shitballs 
+[12:16] <darksydephil> but not *** 
+
+[12:16] <darksydephil> twatty shitballs 
+[12:16] <darksydephil> lol 
+
+[12:16] <darksydephil> i dont know how the censor is enabled to begin with 
+[12:16] <darksydephil> it must be on by default 
+[12:16] <darksydephil> lol 
+
+[12:18] <darksydephil> ok the filter should be off now 
+[12:18] <darksydephil> fuck shitballs twat 
+[12:18] <darksydephil> ok lol 
+[12:19] <darksydephil> ok prestream time 
+
+[12:43] <darksydephil> fyi im also testing to see if it still tells me when the ad is over 
+[12:43] <darksydephil> its SUPPOSED TO but doesn’t walways work 
+[12:44] <darksydephil> its running two ads?? i didnt tell it to do that 
+[12:44] <darksydephil> wtf lol 
+[12:44] <darksydephil> 4 ads! 
+
+[12:44] <darksydephil> holy crap 
+
+[12:44] <darksydephil> now i know why they promised increased adv revenue lol 
+
+[12:45] <darksydephil> well at least the ads work, but im worried about hte 4 ads back to back lol 
+
+[12:45] <darksydephil> are the ads done yet? 
+
+[12:45] <darksydephil> its not telling me they are 
+[12:45] <darksydephil> still going! LOL 
+[12:45] <darksydephil> sweet jesus 
+
+[12:45] <darksydephil> you cannot stop ads manually, once they run they run lol 
+[12:46] <darksydephil> OK it says that the ads ended for me...did htey? 
+
+[16:09] <darksydephil> damn these stats are good 
+
+[16:09] <darksydephil> 15 new subs, 2384 bits during that stream 
+
+[16:10] <darksydephil> if i can keep it up, streaming may actually be profitable, the bits add up 
+
+[16:20] <darksydephil> the game crashed, wasted 30 minutes of my time, and the major boss fight was ruined by 
+
+awful controls, should i just ignore ALL of it? should i be silent then? lol 
+
+[16:20] <darksydephil> ill just be completely quiet whenever the game fucks up i guess 
+
+[16:24] <darksydephil> the extra month delay did nothing, it was something behind the scenes that square enix 
+
+didn't want to admit publicly 
+
+[16:24] <darksydephil> it had nothing to do with polish at all, and it wasn’t the day 1 patch like they said, 
+
+
+
+because there was a still ahuge day 1 patch lol 
+
+-#DARKSYDEPHIL 20161130-02 FFXV 4TH.LOG 
+
+[18:48] <darksydephil> ok back 
+
+[18:48] <darksydephil> gonna add the new vids to playlist and then get set up 
+
+[18:50] <darksydephil> everyone's major criticism is the combat, seems most are liking the game otherwise 
+[19:00] <darksydephil> got a few more subs when i was on break, nice 
+
+[19:00] <darksydephil> well i dunno if i should say that since i dont know how to do it Popsicolo lol 
+
+[19:05] <darksydephil> ok i just tweeted that we’re live 
+
+[19:05] <darksydephil> so we should get some newcomers shortly 
+
+[19:05] <darksydephil> then we'll begin 
+
+[19:06] <darksydephil> mvc4, lol 
+
+[19:06] <darksydephil> 3 was awful, so 4 will be even worse i guess 
+
+[19:07] <darksydephil> i have no idea what fightcade is 
+
+[19:07] <darksydephil> so that would be why 
+
+[19:08] <darksydephil> nobody cares Dukesdearfreja 
+
+[19:08] <darksydephil> lol 
+
+[19:08] <darksydephil> seriously 
+
+[19:08] <darksydephil> FAR too late to fix that game 
+
+[19:08] <darksydephil> we’re in chapter 3 right now 
+
+[19:08] <darksydephil> just beat the behemoth 
+
+[19:08] <darksydephil> moving on, going to check out where thye're saying Titan is 
+
+[19:08] <darksydephil> so may get the first summon tonight 
+
+[19:09] <darksydephil> so yeah, ill talk about emotes in a sec 
+
+[19:09] <darksydephil> be the news sucks, they changed the etnire emote system 
+
+[19:09] <darksydephil> ok i guess ill talk a bit now, give me a sec 
+
+[21:36] <darksydephil> i got rid of him 
+
+[21:36] <darksydephil> i seriously have no idea wtf he's talking about and it's enough spam 
+
+[21:37] <darksydephil> so if i get 8 more subs, we can have 6 emotes, and i can delete a few/add a few so they' 
+
+better 
+
+[21:37] <darksydephil> yeah maybe even tomorrow, we’ll see 
+[21:44] <darksydephil> hey guys 
+
+[21:45] <darksydephil> im deleting the old emotes except for surpriseddsp and angrydsp 
+[21:45] <darksydephil> i dont even know how to get them to work lol 
+[21:45] <darksydephil> how do you do the emotes? 
+
+[21:45] <darksydephil> dspsurpriseddsp 
+
+[21:45] <darksydephil> nope 
+
+[21:46] <darksydephil> dspSurpriseddsp 
+
+[21:46] <darksydephil> there we go, it needed the cap 
+
+[21:46] <darksydephil> im adding a cowboy dsp right now, bu tthey have to approve it i believe 
+[21:46] <darksydephil> everything is gone besides those 2 deep 
+[21:46] <darksydephil> they sucked anyway 
+
+[21:47] <darksydephil> now ill have an open spot for someone to make an emote 
+
+[21:47] <darksydephil> and when i hit 50 subs, 2 more spots 
+
+[21:47] <darksydephil> people are workign on and submitting them now here 
+
+https://thekingofhate.eom/forums/topic/2960-dsps-twitch-return-chat-emotesfanart/#comment-74235 
+
+[21:47] <darksydephil> sure if you'd like Marie. I can’t see them be i have the default white background 
+
+[21:47] <darksydephil> yeah, hes just a troll 
+
+[21:48] <darksydephil> pretty obvious 
+
+[21:49] <darksydephil> the new emote will be dspeowboy 
+
+[21:49] <darksydephil> its me in the cowboy hat with a surprised face, and its really clear 
+
+
+
+
+-#DARKSYDEPHIL 20161201-01 FFXV 5TH.LOG 
+
+[11:44] <darksydephil> testing 
+
+[11:44] <darksydephil> is chat working? 
+
+[11:44] <darksydephil> ok good 
+
+[11:45] <darksydephil> it wasn't at first, kept saying it was timign out 
+
+[11:45] <darksydephil> dspcowboy 
+
+[11:45] <darksydephil> nope not enabled yet 
+
+[11:45] <darksydephil> i wonder what the timeframe is to get an emote working 
+
+[11:45] <darksydephil> oh wtf 
+
+[11:45] <darksydephil> howd you do it? 
+
+[11:45] <darksydephil> dspCowboy 
+[11:45] <darksydephil> aha! 
+
+[11:45] <darksydephil> nice so its pretty fast 
+
+[11:46] <darksydephil> thats a great one, really clear 
+
+[11:48] <darksydephil> well we definitely hit hte November patreon goal 
+
+[11:48] <darksydephil> even with over $100 of declined pledges lol 
+
+[11:51] <darksydephil> ok 
+
+[11:51] <darksydephil> just messaged all of November's declined patrons 
+
+[11:52] <darksydephil> gonna tweet and then get the stream running 
+
+[11:54] <darksydephil> ok so i need you guys to help me out today 
+
+[11:54] <darksydephil> yesterday Onyx mirrored this stream on thekingofhate.com 
+
+[11:54] <darksydephil> i want to see if it works once im live 
+
+[11:54] <darksydephil> can you check it out? 
+
+[11:55] <darksydephil> wow according to Twitch stats, i may have made almost $200 already. 
+
+[11:56] <darksydephil> oh wow, its not even updated yet for yesterday 
+[11:56] <darksydephil> so i guess we’ll see 
+
+[11:56] <darksydephil> the thing is, righ tnow a lot of people are subbing etc 
+
+[11:57] <darksydephil> but that might not keep up 
+
+[11:57] <darksydephil> we’ll have to see 
+
+[11:57] <darksydephil> the bits helped TONS 
+
+[11:57] <darksydephil> holy crap they really added up 
+
+[11:57] <darksydephil> ad revenue was almost nothing! Although i only ran like 2 ads 
+[11:57] <darksydephil> lets see once yesterday's data is fully updated what it says 
+[11:57] <darksydephil> this data is very interesting to say the least 
+[11:58] <darksydephil> OK let me set the stream up now lol 
+
+[12:00] <darksydephil> i have amazon prime, so i guess that means i have a free sub too? 
+
+[12:00] <darksydephil> im pretty sure i cant sub to myself lol 
+
+[12:01] <darksydephil> where do you do that? i haven't seen the option anywhere 
+
+[12:03] <darksydephil> test 
+
+[12:03] <darksydephil> hmm the badge didn’t update 
+[12:03] <darksydephil> wait 
+[12:03] <darksydephil> there it is 
+
+[12:03] <darksydephil> soulrider: those emotes are incredibly old, and used the old legacy naming system 
+[12:04] <darksydephil> we’re talking almost 4 years old 
+
+[12:04] <darksydephil> if i can fix them, i actually will, right now just getting into the swing of things 
+[12:04] <darksydephil> so twitch prime allows you to get 1 free sub a month? 
+
+[12:05] <darksydephil> ok thats cool 
+
+[12:06] <darksydephil> well it looks like you cannot just edit an emote, you have to delete it completely and start 
+over 
+
+[12:06] <darksydephil> thats lame 
+
+[12:06] <darksydephil> ill look into it more later 
+
+[12:06] <darksydephil> right now i have to get the stream going lol 
+
+
+
+
+[12:07] <darksydephil> ok im giong to tweet that we’re live 
+[12:07] <darksydephil> oh wait 
+
+[12:07] <darksydephil> can you guys check out thekingofhate.com and see if the stream is live there too? 
+
+[12:08] <darksydephil> if you can see it on the website, how does it look? 
+
+[12:09] <darksydephil> ill only stream if hteres demand 
+[12:09] <darksydephil> we’ll see how this stream does today 
+
+[12:09] <darksydephil> i actually want to play pokemon so that may be tomororw, and if so ill stream it 
+
+[12:09] <darksydephil> bu tno idea how that will do views-wise etc 
+
+[12:10] <darksydephil> boxman id say 400 is a good number to judge by 
+
+[12:50] <darksydephil> can you hear me talking at all 
+
+[12:50] <darksydephil> ? 
+
+[12:54] <darksydephil> so i restarted OBS...it didnt fix anything 
+
+[12:55] <darksydephil> i guess i can restart the PS4 and try again, i have no idea whats going on 
+[12:55] <darksydephil> this has never happened before 
+
+[12:56] <darksydephil> the game audio isn’t muted on OBS. it shows it as working 
+[12:56] <darksydephil> there was no audio in the recorded video either, no game audio 
+[12:56] <darksydephil> yet OBS is showing active game audio 
+[12:57] <darksydephil> im going to restart the PS4 completely 
+[12:57] <darksydephil> give mea sec 
+
+[12:58] <darksydephil> this is one of hte wweirdest things ever honestly 
+
+[12:58] <darksydephil> and no, nothing in OBS is muted, ill reiterate that lol. it shows as working perfectly 
+
+[12:58] <darksydephil> yet the game audio isn’t being captured, ive changed no settings at all 
+
+[12:58] <darksydephil> ok PS4 is booting 
+
+[12:59] <darksydephil> ok reopening OBS 
+
+[13:01] <darksydephil> still not working 
+
+[13:01] <darksydephil> all i can do is restart the PC at this point 
+
+[13:01] <darksydephil> its OBS or something with the PC, be the ps4 is fine 
+
+[13:02] <darksydephil> LOL how many times do i have to say that nothing is muted before it’ll sink in... 
+
+[13:02] <darksydephil> ok restarting the PC 
+[13:04] <darksydephil> ok PC is booting up 
+[13:06] <darksydephil> OK, PC is rebooted 
+[13:06] <darksydephil> opening OBS again 
+[13:09] <darksydephil> messing with it now 
+[13:09] <darksydephil> give me a sec to try stuff 
+
+[13:11] <darksydephil> ok heres the deal, its only capturing the audio now when i output it to the desktop, which 
+makes ZERO sense whatsoever, its an OBS issue for sure 
+
+[13:14] <darksydephil> ok im going to try just capturing the desktop audio, it seems OBS has shit the bed doing 
+
+it the right way 
+
+[13:18] <darksydephil> ok 
+
+[13:18] <darksydephil> so i think i have a workaround 
+
+[13:18] <darksydephil> but its not solving hte problem, just putting a bandaid on it 
+[13:18] <darksydephil> i wish i knew what the actual problem was 
+
+[13:19] <darksydephil> the problem is 100% in OBS, but nobody on the internet seems to have this problem or 
+posted about it 
+
+[13:20] <darksydephil> running a quick test now 
+[13:20] <darksydephil> then stream will be back 
+[13:20] <darksydephil> give me one more sec 
+[13:22] <darksydephil> ok stream is returning now 
+[13:22] <darksydephil> thanks for being patient, everyone! 
+
+[13:23] <darksydephil> ok we good? 
+
+[13:55] <darksydephil> stream working fine for everyone? 
+
+[14:33] <darksydephil> wait mode IS ON lol 
+
+
+
+[14:34] <darksydephil> im sorry but this battle system is pretty shitty 
+
+[14:35] <darksydephil> its just chaotic and not very fun when your team's AI gets it killed in 10 seconds 
+[14:47] <darksydephil> i love how people are being critical of how i've done up to this point when ive done tons 
+of side content to the point the veiwers complained, and the game hasn't explained much of anything at all on 
+what you're supposed to be doing 
+
+[14:47] <darksydephil> how about you judge the game for what it is instead of after doing research on "how 
+you're suppose dto be playing it" 
+
+[14:50] <darksydephil> i dont dislike the game at all. i just wish i knew what hte fuck i should be doing, because 
+there'se so little guidance on what's important or even how to be successful in combat or otherwise, how am i 
+getting steamrolled if i'm 10 levels above enemies 
+[14:51] <darksydephil> i did do some hunts 
+
+[15:12] <darksydephil> the tutorial doesn't explain much but basics, it certainly doesn’te xplain why you get 
+steamrolled in combat being 10 levls above enemies 
+
+[15:14] <darksydephil> hey Supers 18 , youre such an idiot that you dont relaize you can’t mash to fight in this 
+game lol 
+
+[15:14] <darksydephil> but please keep spamming your bullshit, makes you look dumber and dumber 
+[15:17] <darksydephil> saying "learn the combat" is incredibly silly, i did the tutorial and am playin the game, 
+how do i magically learn how to play correctly? 
+
+[15:17] <darksydephil> that's the games job 
+
+[15:18] <darksydephil> im not at a camp, so how do i even cook? 
+
+[15:18] <darksydephil> its never explained, all i know ho wto do is cook at camps and im not in the overworld 
+now to do that 
+
+[15:51] <darksydephil> i didnt even blacklist any words, jackass, my mods did 
+[15:51] <darksydephil> you're hte insecure idiot who has to talk abou tit 
+[16:10] <darksydephil> ooh someone uploaded a nice new emote for us! 
+
+[16:10] <darksydephil> it's me in my "hmm" pose 
+[16:10] <darksydephil> im gonna upload it now 
+
+[16:12] <darksydephil> LOL I'd be OK with a fapping emote if someone made a good one 
+[16:12] <darksydephil> i really dont care 
+
+[16:12] <darksydephil> also i have 48 subs now. 2 more and we can add 2 more emotes fora total of 6 
+[16:12] <darksydephil> IMO the streams have been a lot of fun 
+[16:13] <darksydephil> more interaction, more feedback etc 
+[16:14] <darksydephil> wow thanks richter! 
+
+[16:14] <darksydephil> so thats 49 subs now! 
+
+[16:17] <darksydephil> it was overnight last time 
+
+[16:17] <darksydephil> the new emote will be my HMM pose so it’ll be dspHmm 
+
+[16:18] <darksydephil> id like to change the icon, but i dont have any ideas really 
+
+[16:19] <darksydephil> SOOO my day 1 FFXV vids did decently as I’d expect on YT 
+
+[16:19] <darksydephil> day 2 vids did awful, not one has lk views except the vid where the game crashed 
+
+[16:20] <darksydephil> dunno if that means people will watch later or they watched the first ones and said "fuck 
+
+this boring game" 
+
+[16:20] <darksydephil> in the long-term its not a big deal as ill have 2 new games next week 
+[16:23] <darksydephil> i dont care about the game awards, ill be playing FFXV 
+[16:23] <darksydephil> and i still have no idea WTF went wrong with OBS, by the way 
+[16:23] <darksydephil> totally stumped 
+[16:23] <darksydephil> i just hope it keeps working this way 
+
+-#DARKSYDEPHIL 20161202-01 FFXV 6TH.LOG 
+
+[19:07] <darksydephil> dspHmm 
+
+[19:12] <darksydephil> not ready yet lol 
+
+[19:12] <darksydephil> hopefully tomorrow 
+
+[19:12] <darksydephil> and ONE more sub to get 6 emotes 
+
+
+
+
+[19:12] <darksydephil> i already have a fapping emote ready to upload lol 
+[19:13] <darksydephil> not according to twitch lol 
+[19:15] <darksydephil> oh okay lol 
+
+[19:15] <darksydephil> well i meant here, one more sub and i get 2 more emotes enabled 
+[19:15] <darksydephil> ok im off to play more FFXV for a couple of hours, later 
+[21:52] <darksydephil> dspHmm 
+[21:52] <darksydephil> darn not ready yet lol 
+
+[21:53] <darksydephil> hey just heading out for the night, great FFXV session i had so be sure to check the vids 
+on DSPGaming as they go live 
+
+[11:05] <darksydephil> darn! They didn’t enable my new emotes yet 
+
+[11:08] <darksydephil> I did hit the 50 subs needed to have six emotes though! So there’s still an open spot. 
+
+[11:46] <darksydephil> hello all 
+
+[11:47] <darksydephil> did you all get caught up on the 2 hours i played FFXV offline last night? 
+
+[11:47] <darksydephil> it was a pretty good session 
+
+[11:48] <darksydephil> great, now we're finally OUT of the demo areas lol 
+
+[11:48] <darksydephil> thanks for the emotes Tylerjku 
+
+[11:49] <darksydephil> i have two new emotes submitted, they just weren’t approved yet 
+
+[11:50] <darksydephil> and i have space for one more after that thanks to hitting 50 subs last night! 
+
+[11:50] <darksydephil> no becuase i need to upload a final emote first 
+[11:50] <darksydephil> then it should show the next goal i thi nk 
+[11:51] <darksydephil> that makes sense 
+
+[11:51] <darksydephil> i dunno if ill hit that, i dont think i ever did back in 2013-2014 honestly 
+
+[11:52] <darksydephil> ok setting up the stream now 
+
+[11:53] <darksydephil> lets see if we can hit 400 again 
+
+[11:53] <darksydephil> if so ill keep streaming this so we’ll see 
+
+[11:53] <darksydephil> tomorrow is Pokemon Moon btw 
+
+[11:54] <darksydephil> oooh bits 
+
+[11:54] <darksydephil> thank you 
+
+[11:55] <darksydephil> my first 2 days of streaming were pretty profitable 
+
+[11:55] <darksydephil> but i guarantee it'll dip now. maybe pick up again with new releases next week 
+[11:55] <darksydephil> stupid prompto! 
+
+[11:56] <darksydephil> they seriously said "you're a frog now prompto" 
+
+[11:56] <darksydephil> lol 
+
+[11:56] <darksydephil> wow thanks devin! 
+
+[11:57] <darksydephil> i think my december patreon goal is going to be a marathon chill stream on here 
+[11:57] <darksydephil> like a series of games that don't go well as playthroughs but where i can just hang out 
+with you all for a day 
+
+[11:57] <darksydephil> im very curious to see how that would do 
+
+[11:58] <darksydephil> Popsicolo your attempt was seriously better than the other guy who tried twice and 
+
+wanted to charge, lol 
+
+[11:58] <darksydephil> what a mook 
+
+[11:59] <darksydephil> it didn't help the guy then admitted he had made art for the SOK and charged THEM for 
+it 
+
+[12:00] <darksydephil> Icureditwithmybrain i bet there are a bunch of popular games on twitch here for chill 
+streams, no? 
+
+[12:00] <darksydephil> wow thanks robwest22 ! 
+
+[12:01] <darksydephil> i wonder if nightbot could auto-thank someone for subbing 
+
+[12:01] <darksydephil> and the only other thing id say Marleve Lynen is maybe have nightbot ask peple to 
+check teh rules on my channel page from time to time 
+
+[12:01] <darksydephil> capcom cup? you mean featuring the fighting game OF THE YEAR!? 
+
+[12:02] <darksydephil> lol 
+
+[12:02] <darksydephil> SFV is a piece of shit, and those game awards are nothing but hipster circle jerks and 
+
+
+
+paid for advertising 
+
+[12:02] <darksydephil> i.e. a complete waste of time 
+
+[12:02] <darksydephil> then youtubers make pointless fluff raction videos to all that crap lol! 
+
+[12:02] <darksydephil> the gravy train just keeps rolling for these people 
+[12:03] <darksydephil> meanwhile, here i am, WORKING 
+[12:03] <darksydephil> overwatch is not GOTY 
+
+[12:03] <darksydephil> it's a great MP game but it lacks essential elements necessary to be called GOTY 
+[12:03] <darksydephil> it won because BLIZZARD 
+[12:04] <darksydephil> is the stream live? 
+
+[12:04] <darksydephil> my player never updated 
+[12:05] <darksydephil> ok let me tweet that we're live 
+[12:06] <darksydephil> stupid dashboard won’t load right on my laptop 
+[12:06] <darksydephil> fucking POS 
+
+[12:07] <darksydephil> damn, there are a lot of gullible people who really think i was banned 
+
+[12:07] <darksydephil> seriously, stop believing everything you hear from dumbfuck kids on the internet 
+
+[12:12] <darksydephil> how do you enable dark mode? 
+
+[12:12] <darksydephil> be it'd made htis WAY eaiser to read 
+
+[12:12] <darksydephil> yup 
+
+[12:13] <darksydephil> way better lol 
+
+[12:13] <darksydephil> i knew it 
+
+[12:13] <darksydephil> hello all 
+
+[12:13] <darksydephil> i hope we can get enough today to continue streaming this but i guess we’ll see 
+[12:13] <darksydephil> Guardians of The Galaxy, starring Troy Baker as Starlord and Laura Bailey as Gammora! 
+[12:17] <darksydephil> Troy Baker looks like a douche to every normal male, but to hipster women, he's a sex 
+god 
+
+[12:17] <darksydephil> that guy probably gets laid by so many dumb girls 
+[16:11] <darksydephil> thanks folks for a great stream! 
+
+[16:11] <darksydephil> tomorrow it's pokemon, we’ll see what happens, i may continue to stream this, we’ll see 
+
+[16:11] <darksydephil> i do like the massive chat interactions that happen 
+
+[16:12] <darksydephil> sadly they didn’t process my emotes yet 
+
+[16:12] <darksydephil> maybe tomorrow 
+
+[16:18] <darksydephil> you guys aren’t spoiling 
+
+[16:18] <darksydephil> that guy was blatantly trying to 
+
+-#DARKSYDEPHIL 20161203-01 POKEMON MOON 4TH.LOG 
+
+[11:43] <darksydephil> hello all 
+
+[11:43] <darksydephil> i can't even get twitch to load in Chrome today, lol. so using firefox 
+[11:44] <darksydephil> also my emotes still aren't approved, delightful 
+
+[11:44] <darksydephil> this is one of the thigns i disliked about twitch, they're inconsistent as all hell 
+
+[11:44] <darksydephil> how did i get new emotes approved overnight one day, now its been almost 3 days and 
+
+nothing 
+
+[11:45] <darksydephil> wtf, pokemon moon isn't an available game to stream in the selections/?? 
+
+[11:46] <darksydephil> this makes no sense 
+
+[11:46] <darksydephil> no, its not there at all. if i type "pokemon m" or "pokemon s" nothing comes up 
+[11:47] <darksydephil> there it is 
+
+[11:47] <darksydephil> i have no idea how to do the e with that apostraphe above it or whatever 
+[11:48] <darksydephil> yeah im good now, i got it 
+
+[11:48] <darksydephil> btw we may have tech difficulties today, be im using hte old OBS again, new OBS 
+
+studio doesn't work with my 3ds capture software 
+
+[11:48] <darksydephil> causes it to stutter and crash, no idea why 
+
+[11:48] <darksydephil> so im only recording in 720p, not that it matters, 3ds doesn't even do 720p lol 
+[11:49] <darksydephil> thats not hte issue soulrider95 
+
+
+
+
+[11:49] <darksydephil> if i even have the capture software open while obs studio is open, it crashes 
+[11:49] <darksydephil> i dont even GET to the step of capturing it lol 
+
+[11:50] <darksydephil> let's hope people show up for pokemon todya, no idea if it will or not 
+[11:50] <darksydephil> if THEY will lol 
+
+[11:51] <darksydephil> tomorrow is also up in the air, i may try the RE7 demo, but i dunno how it's gonna go 
+streaming it. everything is a new experiment now with the new OBS studio software 
+[11:52] <darksydephil> ok brb setting up 
+
+[11:58] <darksydephil> maybe ill get some new viewers be of pokemon and lead to subs? hmm 
+
+[11:58] <darksydephil> be things are starting to dry out with he twitch streaming, not surprising as the hype is 
+
+already died out lol 
+
+[11:59] <darksydephil> bethe, can you please stop leaving comments on my videos about leanna and her work 
+[11:59] <darksydephil> she's at work RIGHT NOW 
+
+[11:59] <darksydephil> stop being some kind of nosy nancy into our business 
+[11:59] <darksydephil> thanks 
+
+[11:59] <darksydephil> ok turning on the stream, let's see what happens... 
+
+[12:00] <darksydephil> please let me kn ow if you can hear the 3ds audio 
+[12:00] <darksydephil> ok great, one issue solved already 
+[12:00] <darksydephil> now heres the thing 
+
+[12:01] <darksydephil> im only capturing at 720p and 3500kbps per twitch guidelines since i have to use the old 
+OBS to capture my 3ds 
+
+[12:01] <darksydephil> im HOPING for 3ds this is more than enough 
+
+[12:01] <darksydephil> so i guess we’ll see. if it looks bad let me know 
+
+[12:02] <darksydephil> yeah they still didnt approve the emotes 
+
+[12:02] <darksydephil> i have no idea why not 
+
+[12:03] <darksydephil> three pikachus? i dont remember that 
+
+[12:04] <darksydephil> i dont know 
+
+[12:04] <darksydephil> ill try to update it again i guess 
+
+[12:05] <darksydephil> title should be updated now 
+
+[12:05] <darksydephil> so stream working for everyone? 
+
+[12:05] <darksydephil> if so ill tweet that we’re live 
+
+[12:05] <darksydephil> ok good 
+
+[12:12] <darksydephil> ok brb potty break lol 
+
+[16:52] <darksydephil> no streaming tonight 
+
+[16:52] <darksydephil> i may stream FFXV tomorrow 
+
+[16:52] <darksydephil> we’ll see, ill post up on twitter later about it 
+
+-#DARKSYDEPHIL 20161204-01 FFXV 7TH.LOG 
+
+[12:01] <darksydephil> hello! 
+
+[12:01] <darksydephil> im finally here 
+[12:01] <darksydephil> setting up now 
+[12:01] <darksydephil> just got off the phone 
+[12:05] <darksydephil> yeah last guardian won 
+[12:05] <darksydephil> its like 56 to 44 percent 
+
+[12:06] <darksydephil> but there's interest for both games, which is good 
+[12:07] <darksydephil> did the page just update to say im playing ffxv? 
+
+[12:08] <darksydephil> what should i think? its a typical HD remaster 
+
+[12:08] <darksydephil> and i just played the games, so not too interesting outside of playing crash 3 
+[12:09] <darksydephil> either pokken tourney or king of fighters, both were much better games 
+[12:11] <darksydephil> stream working for everyone? 
+
+[12:11] <darksydephil> ok cool ill tweet out 
+
+[12:12] <darksydephil> Pokemon did better than i’d expected honestly, think it topped around 350 which was 
+better than youtube 
+
+
+
+
+[12:12] <darksydephil> but the FFXV hype train is dead lol. im only streaming today be i feel like it' 
+
+[12:14] <darksydephil> ok just tweeted that we’re live 
+[12:14] <darksydephil> you couldn't post links in the old chat, lol 
+[12:14] <darksydephil> why are people saying you could? 
+
+[12:15] <darksydephil> oops i misclicked 
+[12:15] <darksydephil> sorry pacman 
+
+[12:16] <darksydephil> that was 100% my fault, i misclicked 
+
+[12:16] <darksydephil> this keyboard is hard to use lol 
+
+[12:17] <darksydephil> my whisper command apparently doesn't work 
+
+[12:17] <darksydephil> delightful 
+
+[12:17] <darksydephil> i click it and nothing happens lol 
+
+[12:17] <darksydephil> oh ok 
+
+[12:17] <darksydephil> the command that is in the pop up doesn’t work at all 
+[12:21] <darksydephil> whoa subs and bits galore! thanks all 
+
+[12:22] <darksydephil> well nobody works at twitch on the weekends, i found that out last week 
+
+[12:22] <darksydephil> so since they didnt approve the emotes on friday, it now has to wait until monday for a bit 
+
+[12:23] <darksydephil> i atually have to piss 
+
+[12:23] <darksydephil> then ill do prestream 
+
+[12:23] <darksydephil> brb 
+
+[12:23] <darksydephil> lol 
+
+[12:23] <darksydephil> i pissed in his mouth 
+
+[12:23] <darksydephil> there ya go 
+
+[12:23] <darksydephil> ok brb 
+
+[13:40] <darksydephil> what exactly are you people talking about? ive put 20 hours into this game, im not 
+quitting it 
+
+[13:40] <darksydephil> wake up children lol 
+[16:35] <darksydephil> who are you talking to lol 
+[16:35] <darksydephil> yourself? 
+
+[16:54] <darksydephil> you're the moron throwing me money every day but i’m the one whose owned, lol 
+
+-#DARKSYDEPHIL 20161205-01 FFXV 8TH.LOG 
+
+[20:36] <darksydephil> the stream isn't live lol 
+[20:36] <darksydephil> why would people idle here? 
+
+[20:46] <darksydephil> lol 
+
+[21:32] <darksydephil> no weebs allowed 
+
+[22:00] <darksydephil> dspHmm is now approved 
+
+[22:00] <darksydephil> now just waiting for the fap face one lol 
+
+[12:36] <darksydephil> hello 
+
+[12:36] <darksydephil> anybody here? 
+
+[12:36] <darksydephil> lol 
+
+[12:38] <darksydephil> i guess not lol 
+
+[12:39] <darksydephil> hello 
+
+[12:39] <darksydephil> setting up now 
+
+[12:40] <darksydephil> just announced it on twitter 
+
+[12:40] <darksydephil> got a lead on great quests today, apparently 2 big sidequests that are actually my level 
+[12:40] <darksydephil> smells good so far! 
+
+[12:43] <darksydephil> so a new emote is available for usbs 
+
+[12:43] <darksydephil> subs 
+
+[12:43] <darksydephil> dspHmm 
+
+[12:44] <darksydephil> no, they just didnt approve it 
+
+[12:44] <darksydephil> i haven’t received anything about it yet 
+
+[12:45] <darksydephil> ok stream should be live shortly 
+
+
+
+
+[12:45] <darksydephil> gonna get OBS going 
+
+[12:53] <darksydephil> minrn the house smells freaking good lol 
+
+[12:54] <darksydephil> LOL stream says theres 1 viewer 
+
+[12:54] <darksydephil> so that means all of you are fake except for one person 
+
+[12:54] <darksydephil> actually, im watching, so you're all fake! 
+
+[12:54] <darksydephil> yes all subs can now enjoy dspHmm but sadly the O face has not been approved yet 
+[12:55] <darksydephil> ill get it approved 
+
+[12:55] <darksydephil> if they dont approve this, ill resumit it and call it something totally different like ROAR 
+Or something 
+
+[13:04] <darksydephil> here is the the new emote dspHmm 
+
+[13:48] <darksydephil> im back, are commercials still showing or over? 
+
+[13:49] <darksydephil> i dont remember how to get a stream taken down lol. i think its a special twitch email 
+[14:14] <darksydephil> eah 
+[14:14] <darksydephil> yeah 
+[14:14] <darksydephil> fuck off 
+
+[14:14] <darksydephil> nobody lied or stole anything and im tired of dumbfuck kids saying that with zero proof 
+[14:14] <darksydephil> eat a dick 
+[14:17] <darksydephil> next! 
+
+[14:19] <darksydephil> you can’t pay back patrons, because there's no way to tell who specifically pledged for 
+what, and i did something people asked for they wanted MORE than what i’d originally promised, nothing was 
+"stolen" at all, just dumbfuck kids say that to cause drama 
+[15:44] <darksydephil> i didn’t get lost...the fuck are you talking about lol 
+
+[15:44] <darksydephil> i followe dthe dungeon, it loops into itself twice and doesn't ever let you get to tha tledge 
+[15:45] <darksydephil> i did check the map. a ton of times, on stream, are you blind? lol 
+[15:45] <darksydephil> seriously, some of the stuff people say in here is so idiotic 
+[15:45] <darksydephil> open your eyes 
+
+[16:17] <darksydephil> the sauce simmers slowly all day, for 4.5-5 hours 
+[16:17] <darksydephil> it doens't burn, im not boiling it lol 
+[16:42] <darksydephil> you cant save in dungeons 
+[17:16] <darksydephil> anyway 
+
+[17:16] <darksydephil> lets see how many subs i have total now 
+
+[17:16] <darksydephil> i have 72 total subs! pretty awesome 
+
+[17:17] <darksydephil> i bet we'll see more during this week's new releases 
+
+[17:17] <darksydephil> today's stream was more profitable than the last 2 days lol 
+
+[17:17] <darksydephil> and it was out of nowhere, thats cool, thanks for hanging with me all! 
+
+[17:18] <darksydephil> pretty late, im playing til around 9:30pm PST and then uploading, so probably around 
+10pm PST starting 
+
+[17:18] <darksydephil> im off to upload and eat, later all! 
+
+-#DARKSYDEPHIL 20161206-01 LAST GUARDIAN 1ST.LOG 
+
+[11:55] <darksydephil> ok setting up now 
+[11:55] <darksydephil> need to grab losenges 
+[11:56] <darksydephil> btw one new emote approved, one denied 
+[11:57] <darksydephil> no, Twitch just has unfair double standards 
+
+[11:57] <darksydephil> they ALWAYS have, it was one of the reasons i didnt want to come back 
+
+[11:57] <darksydephil> "innapropriate content" and thats it 
+
+[11:57] <darksydephil> im going to resubmit it as Roar 
+
+[11:57] <darksydephil> be it kind of like that too 
+
+[11:58] <darksydephil> im going to try dspRoar right now 
+
+[11:59] <darksydephil> resubmit it and see if it'll go through quick 
+
+[11:59] <darksydephil> in the meantime dspNothing 
+
+[11:59] <darksydephil> so i literally did everything i could this morning 
+
+
+
+
+[11:59] <darksydephil> gargled salt water, drank tea, took decongestant, now im drinking ginger ale 
+
+[11:59] <darksydephil> and about to use losenges too. not much can bet done otherwise 
+
+[12:00] <darksydephil> ok BRB, setting up the stream and submitting tha temote again 
+
+[12:00] <darksydephil> yeah Paul was a great guy, im trying to hear what happened 
+
+[12:02] <darksydephil> so I have 73 subs now! 27 to go to get another 2 emotes 
+
+[12:14] <darksydephil> yeah i have to change the title, hold on 
+
+[12:14] <darksydephil> LONESTAR! 
+
+[12:15] <darksydephil> I HATE WHEN MY SCHWARTZ GETS TWISTED! 
+
+[12:18] <darksydephil> ok i thi nk im all set up to go now 
+[12:18] <darksydephil> let me tweet that we’re live 
+[12:20] <darksydephil> ok i just tweeted that we’re live 
+
+[12:20] <darksydephil> BTW i have the results from yesterday's stream, with ALL those ads I ran, guess how 
+much $ i made on ad revenue? 
+
+[12:21] <darksydephil> teemu9492 got it! $15 bucks, and i took like 8 ad breaks, thats crazy...BAD lol 
+
+[12:21] <darksydephil> that means their ads are incredibly unprofitable 
+
+[12:25] <darksydephil> yes, please type snort in the chat, you dumbfuck kids 
+
+[12:26] <darksydephil> yeah mineraft would probably fit perfectly 
+
+[12:26] <darksydephil> for some reason the sub badge looked better years ago lol 
+
+[12:26] <darksydephil> i think they upped the quality of the badges and emotes now so it looks like shit in 
+comparison 
+
+[12:27] <darksydephil> i think it originally was just a crown, lol 
+
+[12:27] <darksydephil> im definiteion down for a new sub badge if people wanted to take a stab at it 
+[12:27] <darksydephil> nothing i could do looks good in dark mode, thats wha ti use 
+[12:28] <darksydephil> i mean dspNothing 
+
+[12:29] <darksydephil> well we're not getting the O face emote, they just declined it again 
+
+[12:29] <darksydephil> again, massive double standards, which is why i fucking hate twitch 
+
+[12:29] <darksydephil> completely unequal treatment of streamers 
+
+[12:30] <darksydephil> inappropriate content 
+
+[12:30] <darksydephil> thats it 
+
+[12:30] <darksydephil> complete bullshit 
+
+[12:31] <darksydephil> because it's completely double standard and unfair, that's why. if i had 10k subs they'd 
+
+do it in a heartbeat 
+
+[12:31] <darksydephil> ok 
+
+[12:31] <darksydephil> prestream time 
+
+[12:31] <darksydephil> here we go 
+
+[14:37] <darksydephil> nice i’m up to 78 subs! Only 22 more to get 2 more emotes! 
+
+[14:37] <darksydephil> thanks everyone! Toughing through it today but glad to see people here nad enjoying it 
+[14:38] <darksydephil> i have a hot tea here now. throat is killing me man 
+
+-#DARKSYDEPHIL 20161206-02 DEAD RISING 4 1ST.LOG 
+
+[18:47] <darksydephil> ok starting to set up again 
+
+[18:47] <darksydephil> first getting the last guardian stuff in playlist 
+
+[18:54] <darksydephil> there's making fun and there's blatant insults 
+
+[18:54] <darksydephil> i have no idea what the guy said but if you can't tell the difference, enjoy your ban 
+[18:54] <darksydephil> brb making tea 
+
+[19:00] <darksydephil> honey is just a sweetener, it doesn't actually help the sore throat lol 
+
+[19:00] <darksydephil> and im OK with bitter tea 
+
+[19:02] <darksydephil> nope, email is better 
+
+[19:02] <darksydephil> i miss a lot of tweets everyday 
+
+[19:03] <darksydephil> so 5 new subs and 1900 bits today so far, nice 
+
+[19:03] <darksydephil> only problem is, it sa late stream, lots of people asleep already 
+
+[19:04] <darksydephil> i literally haven’t spoken normally since the last stream, saved my voice the entire time 
+
+
+
+
+[19:04] <darksydephil> so we’ll see how it goes 
+
+[19:04] <darksydephil> no talking yet, stream just went live 
+
+[19:04] <darksydephil> ill tweet about it in a sec 
+
+[19:04] <darksydephil> kipplez i have a lot of international viewers 
+
+[19:04] <darksydephil> in europe its very early morning righ tnow 
+
+[19:05] <darksydephil> bigspens : no FF tomorrow, it'll return thursday at the earliest 
+
+[19:06] <darksydephil> why on earth would you watch anohter transformers movie trailer lol 
+
+[19:07] <darksydephil> lewddudex that emote is permanently out, they refuse to approve it 
+
+[19:07] <darksydephil> so whatever 
+
+[19:07] <darksydephil> nice, thanks Dilrow! 
+
+[21:33] <darksydephil> twitch has never treated all streamers equally 
+[21:33] <darksydephil> theres always blatant favortism 
+
+[21:33] <darksydephil> why do you think i was forced to lower my stream quality in 2014 when others were 
+stremaing at the same as i was? 
+
+[21:34] <darksydephil> because he’s crazy, i dunno 
+[21:34] <darksydephil> probably just wants the attention 
+
+[21:34] <darksydephil> i bet if i raised it so that it's a whole dollar to do bits, he’d still do it. id make 100 dollars 
+a day streaming because of him 
+
+[21:34] <darksydephil> i guarantee its not his money, probably his daddy's 
+[21:35] <darksydephil> ok folks im out! see you tomorrow for more dead rising 4 
+
+[21:35] <darksydephil> i actually like the game so far, although it is a bit more cheesy and far less challenging 
+[21:35] <darksydephil> it's still fun though 
+
+-#DARKSYDEPHIL 20161207-01 DEAD RISING 4 2ND.LOG 
+
+[14:04] <darksydephil> hello 
+[14:04] <darksydephil> anyone here? 
+
+[14:05] <darksydephil> feeling better after getting that extra sleep, feeling reinvigorated 
+[14:06] <darksydephil> i just unpaused the game and got punched in the back of hte head 
+[14:06] <darksydephil> wtf lol 
+
+[14:06] <darksydephil> dont remember ending it like that last night 
+[14:07] <darksydephil> ok going to turn on the stream now 
+[14:07] <darksydephil> give me a sec 
+[14:09] <darksydephil> hello 
+
+[14:12] <darksydephil> i thi nk im going to play this twice today 
+[14:12] <darksydephil> fuck the last guardian lol 
+[14:12] <darksydephil> this game is actually fun 
+
+[14:13] <darksydephil> because reviewers are artsy fartsy idiots who dont know whats actually entertaining vs 
+"purdy and feels" 
+
+[14:13] <darksydephil> im not quitting the last Guardian, i just dont particularly feel like playing it right now 
+
+[14:13] <darksydephil> especially be i feel like shit 
+
+[14:14] <darksydephil> ok cough drop time 
+
+[14:14] <darksydephil> then we can get started 
+
+[14:15] <darksydephil> am i doing a prestream? 
+
+[14:15] <darksydephil> im popping fucking cought drops here 
+
+[14:15] <darksydephil> relax 
+
+[14:15] <darksydephil> geez some people 
+
+[14:15] <darksydephil> oh my god 
+
+[14:15] <darksydephil> there 
+
+[14:16] <darksydephil> some people are so stupid 
+
+[14:27] <darksydephil> LOL 
+
+[14:27] <darksydephil> no idea whats going on here 
+
+[14:28] <darksydephil> i see the stream too 
+
+
+
+
+[14:28] <darksydephil> i dont think its the device at all 
+
+
+-#DARKSYDEPHIL 20161207-02 DEAD RISING 4 3RD.LOG 
+
+[19:22] <darksydephil> ok 
+
+[19:22] <darksydephil> setting u pnow 
+
+[19:22] <darksydephil> as in, right now, it'll be live in a sec 
+
+[19:22] <darksydephil> then im just gonna grab a tea and we can start 
+
+[21:02] <darksydephil> this game is the OPPOSITE of boring 
+
+[21:02] <darksydephil> maybe you're boring if you think every game i stream is boring, lol 
+
+-#DARKSYDEPHIL 20161208-01 FFXV 9TH.LOG 
+
+[12:04] <darksydephil> hello folks 
+
+[12:04] <darksydephil> setting up now 
+
+[12:04] <darksydephil> trolls didn’t do a very good job lol 
+
+[12:04] <darksydephil> they couldn’t resist bragging about their stupidity 
+
+[12:06] <darksydephil> ok thanks 
+
+[12:06] <darksydephil> i thought i’d tried that bu ti guess i hadn’t used enough items 
+[12:07] <darksydephil> well kind of 
+[12:07] <darksydephil> throat isn’t so sore 
+
+[12:07] <darksydephil> but now im congested and my throat is tickling me, but the mucinex is starting to work 
+[12:08] <darksydephil> yes, they actually coordinated using cloned twitter acounts to false vote, they'd done it in 
+the past so the accounts already existed 
+[12:08] <darksydephil> some voted like 40 times lol 
+
+[12:09] <darksydephil> they even waited for me to go to sleep to do it. when i went to sleep TLG was over 10% 
+behind both FFXV and Dead Rising 4. i wake up and it's in the lead? fuck now lol 
+[12:09] <darksydephil> i do want to play TLG, but not because trolls say so 
+
+[12:10] <darksydephil> i wanted to see what my actual viewers wanted and the poll was successful because i’m 
+not a dumbass 
+
+[12:10] <darksydephil> ok stream should be going live momentarily 
+[12:11] <darksydephil> gee, wonder who he's a part of! lol 
+[12:11] <darksydephil> damn well 
+
+[12:12] <darksydephil> i started the stream, but now its not starting 
+[12:12] <darksydephil> wtf 
+
+[12:12] <darksydephil> i might have to reset the stream key or something be its not turning on 
+[12:13] <darksydephil> ok ive reset the key 
+[12:13] <darksydephil> lets try again 
+[12:13] <darksydephil> aha! 
+
+[12:14] <darksydephil> i see action 
+
+[12:14] <darksydephil> there we go. just a twitch issue 
+
+[12:14] <darksydephil> i hope we dont have the fing pixelation issues that twich had yesterday, that was shitty 
+[12:15] <darksydephil> ok brb, off to get tea and other drinks before we start 
+[12:21] <darksydephil> oh my god 
+
+[12:21] <darksydephil> theres no conspiracy here and im not going to entertain one, so please, if that's your 
+agenda, STFU or leave 
+[12:21] <darksydephil> thanks 
+
+[12:21] <darksydephil> we’re here to enjoy a chill FFXV stream 
+[12:21] <darksydephil> i need one after eing sick for 3 days 
+[12:23] <darksydephil> nobody has cheered yet today, correct? 
+
+[12:23] <darksydephil> im trying to get steamlabs working but sometimes its wrong 
+[12:23] <darksydephil> ok good, it's accurate then 
+
+[12:23] <darksydephil> hold up im going to enter a DLC code, someone senet me one 
+[12:23] <darksydephil> oh WTF 
+
+
+
+
+
+[12:23] <darksydephil> ther ewere cheers?! 
+
+[12:23] <darksydephil> streamlabs isn't working then 
+[12:24] <darksydephil> yeah its listing the follows but not the bits...sigh 
+[12:24] <darksydephil> i can try reloading streamlabs and see if it fixes anything 
+[12:25] <darksydephil> npe, it didn't fix it 
+[12:25] <darksydephil> sigh 
+
+[12:25] <darksydephil> if only there were fullproof shit 
+
+[12:25] <darksydephil> still after all this time, everything is still wonky as fuck 
+
+[12:26] <darksydephil> ok hold up, gonna enter some die codes from a fan who got two sets on amazon for some 
+reason 
+
+[12:55] <darksydephil> LOL 
+
+[12:56] <darksydephil> so the prestream is now a corrupted file i can’t delete 
+[12:56] <darksydephil> delightful 
+
+[12:58] <darksydephil> ok im restarting the stream, then we'll have to test again 
+[12:59] <darksydephil> stream coming up for anyone? 
+
+[12:59] <darksydephil> i dont se it 
+
+[12:59] <darksydephil> what the fuck is wrong with OBS studio 
+[12:59] <darksydephil> seriously 
+[12:59] <darksydephil> ok its back now? 
+
+[12:59] <darksydephil> im going to do a test recording 
+[13:00] <darksydephil> ok im test recording righ tnow 
+[13:00] <darksydephil> ok that test recording worked 
+[13:00] <darksydephil> im going to try a longer one now 
+[13:00] <darksydephil> for like 2 minutes 
+[13:00] <darksydephil> so eeryone just relax 
+[13:00] <darksydephil> it if works we can start 
+[14:18] <darksydephil> today? they're here every day 
+[16:19] <darksydephil> crap i forgot the shout outs 
+[16:19] <darksydephil> my fault 
+
+[16:19] <darksydephil> ill do them on tonights stream before we start 
+[16:31] <darksydephil> ill take a look, thanks tyler! 
+
+-#DARKSYDEPHIL 20161208-02 FFXV 10TH.LOG 
+
+[18:56] <darksydephil> just turned on the stream 
+
+[18:56] <darksydephil> it took a bit to show up earlier today 
+
+[18:56] <darksydephil> feel about the same as when we went offline 
+
+[18:56] <darksydephil> i took another decongestant 
+
+[19:01] <darksydephil> brb, gonna get a seltzer 
+
+[19:01] <darksydephil> then ill tweet out and get started 
+
+[19:01] <darksydephil> there wasn't much rage until the shitty combat of hte sewer duneon 
+[19:01] <darksydephil> dungeon 
+
+[19:02] <darksydephil> i was higher level than the dungeon, i had tons of items 
+
+[19:03] <darksydephil> sorry but it isn’t RPG combat hwen you can't see wtf is going on and your entire team is 
+getting wiped constantly 
+
+[19:03] <darksydephil> i think i spent more time using healing items than attacking 
+[19:03] <darksydephil> ok brb 
+
+-#DARKSYDEPHIL 20161209 NO STREAMS, ILL.LOG 
+
+-#DARKSYDEPHIL 20161210-01 DEAD RISING 4 4TH.LOG 
+
+[11:44] <darksydephil> hello all 
+
+[11:44] <darksydephil> im' back and feeling much better 
+
+
+
+
+
+
+[11:45] <darksydephil> taking yesterday off was exactly the right thing to do lol 
+
+[11:45] <darksydephil> ive gota bit of lingering congestion and cough but so much better than it was 
+
+[11:46] <darksydephil> hopefully people got caught up on the new stuff from this week with the day off. i have 
+
+no idea, i was pretty out of it 
+
+[11:46] <darksydephil> it didnt help that i had to actually run errands regardless of being sick 
+
+[11:47] <darksydephil> yeah, yesterday was the worst, throat still hurt plus i couldn't breathe nor talk 
+
+[11:47] <darksydephil> now soreness is completely gone, im almost fully decongested 
+
+[11:47] <darksydephil> ok brb, gonna set up hte stream and get it going before i grab some drinks 
+
+[11:54] <darksydephil> FFXV side content is good if you know where the good stuff is 
+
+[11:54] <darksydephil> sadly thats always the issue with RPGs, they pair actually good dungeons and the like 
+
+with repetitive garbage 
+
+[11:54] <darksydephil> and with FFXV theres literally no indication where the dungeons are. so you have to 
+look shit up or just stumble upon it 
+[11:55] <darksydephil> LOL man 
+[11:55] <darksydephil> these fucking kids these days 
+
+[11:55] <darksydephil> someone on the forums wanted to know the full story or what happened with twitch 2 
+years ago 
+
+[11:55] <darksydephil> i took the time to type out this super detailed explanation yesterday, despite being sick 
+[11:55] <darksydephil> kid responds today, "well, you made that all up, i dont believe you" 
+
+[11:55] <darksydephil> fucking stupid brat 
+
+[11:55] <darksydephil> because he was trolling to begin with, obviously 
+
+[11:56] <darksydephil> a lot of posters on the forums are like that, they bait me into explaining situations just to 
+basically say im a liar lol 
+
+[11:56] <darksydephil> i dunno why i fucking bother 
+[11:56] <darksydephil> when i feel like it 
+
+[11:56] <darksydephil> right now im so behind i want to play the games im enjoying far more 
+
+[11:58] <darksydephil> hope everyone built up their bits for today, lol. after losing out on a day yesterday i hope 
+
+i can come back strong with these longer streams 
+
+[12:00] <darksydephil> ok just activated the stream, let's see if this goes smoothly or not lol 
+
+[12:00] <darksydephil> im gonna do a TEST recording first so we dont lose the entire prestream like the other 
+
+day 
+
+[12:00] <darksydephil> i keep seeing the stream twitch but not go live 
+[12:00] <darksydephil> sigh 
+
+[12:01] <darksydephil> i thinkt hey fucked up again 
+
+[12:01] <darksydephil> i guess ill give it another minute, then try restarting 
+[12:02] <darksydephil> oh it did just go live! Thanks Darnaxis 
+[12:02] <darksydephil> and thanks amocoru for subbing! SWEET 
+
+[12:02] <darksydephil> oh i should boot thte game to have that nice menu music playing, giv emea sec 
+[12:03] <darksydephil> there we go! 
+
+[12:03] <darksydephil> nice holiday music incoming lol 
+[12:03] <darksydephil> i love the menu music of dr4 
+[12:03] <darksydephil> so timely for this time of year 
+[12:08] <darksydephil> ok im going to tweet that we're live 
+
+[12:09] <darksydephil> nobody is going to see Rogue One, it's obviously an anti-Trump allegory 
+
+[12:09] <darksydephil>. 
+
+[12:09] <darksydephil>. 
+
+[12:09] <darksydephil>. 
+
+[12:15] <darksydephil> futa fandom lol 
+
+[12:16] <darksydephil> ok everyone ready for prestream? 
+
+[12:40] <darksydephil> i restarted the steram 
+
+[12:40] <darksydephil> stream 
+
+[12:40] <darksydephil> can anyone see it? 
+
+
+
+
+
+
+[15:03] <darksydephil> anyone else want ot make fun of me? 
+
+[15:03] <darksydephil> please by all means, enjoy your ass kicking out of chat 
+[15:55] <darksydephil> Chins are Chinese, not Japanese.... 
+
+[15:55] <darksydephil> what a terrible pun 
+
+-#DARKSYDEPHIL 20161210-02 FFXV 11TH.LOG 
+
+[18:56] <darksydephil> hello folks 
+[18:56] <darksydephil> anyone back? 
+
+[19:00] <darksydephil> yup FFXV is coming up now 
+[19:00] <darksydephil> setting up for it 
+
+[19:10] <darksydephil> i was tol dtheres no way id beat costlemark yet lol 
+
+[19:10] <darksydephil> i want to do some hunts to get mor emoney and buy more healing items 
+
+[19:10] <darksydephil> THEN maybe ill try costlemark or else just do the story 
+
+[19:10] <darksydephil> we’ll se 
+
+[19:11] <darksydephil> see 
+
+[19:11] <darksydephil> ok stream on, let me know when it works 
+[19:12] <darksydephil> oh wait its working now 
+
+[19:12] <darksydephil> oops i forgot to change the Dead Rising 4 pics lol 
+[19:12] <darksydephil> oh well 
+
+[19:12] <darksydephil> tower but not the boss, then wtf is the point lol 
+[19:12] <darksydephil> ill do some hunts first and we’ll see what happens 
+[19:14] <darksydephil> nope i never did akio 
+[19:14] <darksydephil> i guarantee its a hunt 
+[19:14] <darksydephil> oh, its not then? 
+
+[19:17] <darksydephil> so anyway 
+
+[19:17] <darksydephil> ill start talking ina sec, let me twee that we’r elive 
+
+[20:13] <darksydephil> rx93gundamm : just becuase you’re a sub doesn’t give you free reignt to say incredibly 
+
+dumb or insulting shit in the stream chat 
+
+[20:13] <darksydephil> keep it up and say good bye 
+
+[20:13] <darksydephil> this is your only warning 
+
+[20:13] <darksydephil> see? 
+
+[20:13] <darksydephil> just like that fucking moron 
+
+[20:13] <darksydephil> no, just work drama with Leanna, they're trying to screw her over and make her work 
+
+even later than shes scheduled which they can’t do, but of course they will anywa 
+
+[20:14] <darksydephil> and shes alreayd feeling shitty trying to get over the cold so shes super upset 
+
+[20:14] <darksydephil> now they're telling her that she only gets a 30 minute break when she's actually owed an 
+
+hour break, basically the manager is an asshole 
+
+[21:28] <darksydephil> they didnt even animate sea mist lol 
+
+[21:28] <darksydephil> pretty lame honestly 
+
+-#DARKSYDEPHIL 20161211-01 FFXV 12TH.LOG 
+
+[12:03] <darksydephil> hello folks 
+
+[12:03] <darksydephil> stream going live momentarily 
+
+[12:03] <darksydephil> and ill actually test the recording BEFORE prestream today lol 
+
+[12:05] <darksydephil> ah it's live already 
+
+[12:05] <darksydephil> that's a good sign 
+
+[12:05] <darksydephil> ok let me dummy record 
+
+[12:05] <darksydephil> ugh this stupid cold 
+
+[12:06] <darksydephil> today my throat is tickling me like crazy 
+
+[12:06] <darksydephil> you're gonna hear me clearing it all stream 
+
+[12:08] <darksydephil> damn 
+
+[12:08] <darksydephil> yesterday's stream results are disappointing 
+
+
+
+
+
+[12:08] <darksydephil> i streamed two longer streams and only made $20... 
+
+[12:09] <darksydephil> far less than usual, i guess a lot of people didn’t come by be id been sick or something 
+[12:09] <darksydephil> i did notice far less bits 
+[12:09] <darksydephil> thanks amocoru! 
+
+[12:09] <darksydephil> it really is the bits that make it profitable daily, the subs definitely help but it's the 
+constant bits that add up bigtime 
+
+[12:10] <darksydephil> and most people get bits for free by watching ads 
+
+[12:10] <darksydephil> pretty crazy, a TOTALLY different business model than it used to be 
+
+[12:10] <darksydephil> ads are like, the worst way to make money here lol 
+
+[12:10] <darksydephil> ok recording is working 
+
+[12:10] <darksydephil> time to tweet out that we’re live 
+
+[12:17] <darksydephil> oooh i got two new subs overnight! 
+
+[12:17] <darksydephil> lets see how many i have total now 
+[12:18] <darksydephil> 94 subscribers! 
+
+[12:18] <darksydephil> nice! 
+
+[12:18] <darksydephil> getting there up to 100 
+[12:18] <darksydephil> pwnage_101 i already tested twice 
+[12:18] <darksydephil> so if it messed up again, i acn’t help it 
+[12:19] <darksydephil> when i hit 100 i can have 8 emotes 
+
+[12:19] <darksydephil> but honestly right now i can have a new one, but nobody has submitted any lol 
+[12:19] <darksydephil> the fap emote will never happen so 
+[12:19] <darksydephil> any other new ones would be appreciated 
+[12:19] <darksydephil> yeah i saw LinkinSimpson 
+
+[12:20] <darksydephil> so i guess im definitely playing overwatch on main stream tuesday, sweet 
+[12:20] <darksydephil> i probably wont stream batman, but we'll see if there's enough demand 
+[12:21] <darksydephil> its like ive said, im OK streamin ga lot if its profitable and so far it has been, yesterday 
+being kind of an exception since i streamed far more and made less than usual...so we'll see moving forward 
+[12:21] <darksydephil> zzman2000 : OPEN fan appreciation can't even happen anymore, the trolls have 
+completely ruined it for everyone, thats why im doing the closed patron events now 
+
+[12:22] <darksydephil> wrath_7 , what exactly do you suggest i do to stop them? theres no regulation on it and 
+no safeguards in place 
+
+[12:23] <darksydephil> last time i did open fan appreciation, trolls took up mor ethan half the spots and everyone 
+was hugely disappointed 
+
+[12:23] <darksydephil> its not worth it for me to organize the entire thing just to see it fail because of the actions 
+of fuckwads 
+
+[12:24] <darksydephil> thanks superrambo! 
+
+[12:24] <darksydephil> is he not even in the chat? lol 
+[12:25] <darksydephil> OkNOPE you show as subbed lol 
+[12:25] <darksydephil> sounds like a bug 
+[12:25] <darksydephil> ok prestream time 
+
+[17:23] <darksydephil> so the plot of FFXV actually makes sense, it just sucks lol 
+
+[17:23] <darksydephil> that's better than FFXIII did though 
+
+[17:38] <darksydephil> i might finish the story later tongiht 
+
+[17:38] <darksydephil> we'll see 
+
+[17:38] <darksydephil> ill announce on twitter if i do 
+
+[17:38] <darksydephil> why do you have another name?? 
+
+[17:46] <darksydephil> lol i was still streaming, ooops 
+[17:46] <darksydephil> just turned it off 
+
+-#DARKSYDEPHIL 20161212-01 LAST GUARDIAN 2ND.LOG 
+
+[11:58] <darksydephil> hello 
+
+[11:59] <darksydephil> setting up now 
+
+
+
+
+[11:59] <darksydephil> still choking though, damn cold 
+[12:00] <darksydephil> wow two new subs overnight! 
+
+[12:00] <darksydephil> and i think wubegg gave 1000 bits too 
+[12:00] <darksydephil> holy crap lol 
+
+[12:01] <darksydephil> no, but ill restart the PS4 right now if thats the case 
+[12:01] <darksydephil> we saw firsthand it ran like shit on tuesday 
+[12:01] <darksydephil> thanks for the info 
+
+[12:03] <darksydephil> thanks Icureditwithmybrain , ill check that right now for hte prestream! 
+
+[12:05] <darksydephil> WOW yesterday was a good streaming day 
+
+[12:05] <darksydephil> I made like 60 bucks alone just with the one FFXV stream! 
+
+[12:05] <darksydephil> returning to twitch is working out in a huge way. if stuff keep sup like this, it could 
+seriously help me in the long run 
+
+[12:06] <darksydephil> right now streaming is working 
+
+[12:06] <darksydephil> no reason to change course when the current one is successful 
+[12:06] <darksydephil> i jus thave to tough through it with this fucking cold 
+[12:08] <darksydephil> popsicolo made a new emote! 
+
+[12:08] <darksydephil> submitting it now. it's WOW DUDE 
+[12:08] <darksydephil> lol 
+
+[12:09] <darksydephil> wowdude has been submitted, now just needs approval 
+[12:09] <darksydephil> maybe we’ll have it today, they've been quick 
+[12:09] <darksydephil> eobardthawn362 i kind of touched upon that? 
+
+[12:10] <darksydephil> as in, saying be im doing well on twitch doens't mean i dont need patreon support 
+[12:10] <darksydephil> and yeah, its not good, ive dropped like $300 on patreon in the last week 
+[12:12] <darksydephil> eobardthawn362 well it's uncertain, keep in mind, twitch keeps HALF of all sub revenue 
+[12:12] <darksydephil> so if theoretically those patrons came over here and subbed instead, im actually making 
+half as much 
+
+[12:13] <darksydephil> but im sure a lot of it is bits too, which is 100% profit for me...so ther;s really no way to 
+tell 
+
+[12:13] <darksydephil> i wont know until this month ends really 
+
+[12:13] <darksydephil> then i can see how profitable it was being here all month 
+
+[12:13] <darksydephil> BTW someone reminded me of the Christmas WWE sims last night, i was like WTF i 
+almost forgot! 
+
+[12:13] <darksydephil> ill probably do those Christmas eve or day 
+[12:14] <darksydephil> ok turning on the stream now 
+
+[12:15] <darksydephil> twitch takes a 50% cut on subs, patreon takes a 10% cut. its WAY less 
+
+[12:17] <darksydephil> ok time for the test recording before i do prestream lol 
+
+[12:18] <darksydephil> guess what? OBS crashed 
+
+[12:18] <darksydephil> gotta restart 
+
+[12:18] <darksydephil> glad i tested this POS 
+
+[12:19] <darksydephil> yeah ocarina should be good, so will whichever FF i choose to play 
+[12:20] <darksydephil> no settings are "wrong" eobardthawn362 
+
+[12:20] <darksydephil> or else it would crash constantly, it doesn’t, it just randomly doesn’t record at the start of 
+a stream 
+
+[12:20] <darksydephil> then i restart and it works 
+[12:20] <darksydephil> it's the program, its very shoddy 
+[12:20] <darksydephil> ok imtesting recording again 
+[12:22] <darksydephil> my website works fo rme 
+[12:22] <darksydephil> OK recording worked, thank god 
+[12:29] <darksydephil> let me pop a cough drop now lol 
+
+[12:30] <darksydephil> you mean trico doesn’t just fucking stand there like a dumbfuck when you're pointing 
+RIGHT AT WHERE YOU WANT HIM TO GO!?! 
+
+[12:30] <darksydephil> lol 
+
+
+
+[16:12] <darksydephil> 3 hours left? lol 
+[16:12] <darksydephil> jesus nobody can agree 
+
+[16:14] <darksydephil> so it sounds like i WILL need another major stream then 
+
+[16:14] <darksydephil> that could be Thursday. Guess we’ll see 
+
+[16:16] <darksydephil> i just tweeted onyx about it 
+
+[16:16] <darksydephil> be i needed the fanart for tonight’s stream lol 
+
+[16:18] <darksydephil> ok, so around 2-3 hours left, ill probably finish it on thursday day 
+
+[16:18] <darksydephil> then 
+
+[16:19] <darksydephil> since tomorrow its overwatch and Wednesday is ffxv 
+
+[16:20] <darksydephil> it's sad that the game is so damn boring, after 10 years its the same exact game they were 
+making, so now its massively outdated 
+[16:20] <darksydephil> what a shame 
+
+[16:21] <darksydephil> you can tell a game is boring when we have almost 400 watching and nobody was even 
+giving bits lol 
+
+[16:22] <darksydephil> people were asleep 
+[16:22] <darksydephil> yeah thats exactly right 
+
+[16:22] <darksydephil> fans of ICO/SOTC will love it, everyone else will hate it. its not for 2016 audiences at all 
+[16:22] <darksydephil> i cant wait to rip into the mainstream media who gave the game 8s and 9s. fucking 
+hipster douchebags 
+
+[16:23] <darksydephil> im seriously tired of every "artsy" game now getting high scores when actual gamers 
+
+dont like the fucking games 
+
+[16:23] <darksydephil> underestimating?! 
+
+[16:24] <darksydephil> no, the mainstream media ARE the "deep" gamers, and they sell shoddy games like this 
+becuase their reviews aren’t actually in line with reality and what the common gamer thinks 
+[16:24] <darksydephil> they're a bunch of hipster morons, like i said 
+
+[16:25] <darksydephil> yeah im gonna check out metacritic before i do my own review and see what others have 
+said, can’t wait to tear into some of these idiots 
+
+[16:26] <darksydephil> the major issue isn't even the framerate. it's the game, it's outdated, boring, slow pacing, 
+no actual suspense (until JUST NOW with this other Trico) and no story, its just crap and not worth 60 bucks 
+[16:26] <darksydephil> this premise looked amazing to us 10 years ago. now we've seen better games 
+[16:28] <darksydephil> how is this game emotional? at least so far, there has been zero emotional ties at all. i 
+guss maybe something happens at the end lol. we'll see later this week 
+
+-#DARKSYDEPHIL 20161212-02 DEAD RISING 4 5TH.LOG 
+
+[18:51] <darksydephil> ok im back 
+
+[18:51] <darksydephil> setting up for dead rising 4! 
+
+[19:02] <darksydephil> ok stream should be going live now 
+[19:03] <darksydephil> any day now.... 
+
+[19:03] <darksydephil> no, obs is working, but the stream isn’t going live on the twitch side yet 
+[19:03] <darksydephil> ah mine is loading now too 
+[19:03] <darksydephil> there it is 
+
+[19:04] <darksydephil> no music, let me boot the game for some holiday jams 
+[19:06] <darksydephil> shoudl be playing now 
+[19:06] <darksydephil> hello 
+
+[19:07] <darksydephil> oh great, the glitch happened again 
+[19:07] <darksydephil> i have to restart OBS 
+[19:07] <darksydephil> good thing i tested 
+[19:07] <darksydephil> this program sucks ass 
+
+[19:08] <darksydephil> in a triple threat there's only supposed to be one pinfall or submission 
+[19:08] <darksydephil> there shouldn’t be any countouts or DQs 
+[19:08] <darksydephil> testing right now 
+[19:08] <darksydephil> ok it worked this time 
+
+
+
+
+[19:09] <darksydephil> so then they're going more by the rules of a tag match 
+[19:09] <darksydephil> ok i mgonna tweet that the stream is live now that its working 
+
+[19:11] <darksydephil> i wish we could get WWE network in the living room but neither our TV nor our blu ray 
+player support the damn app. only my ps3/ps4 do 
+
+[19:12] <darksydephil> and it’d be too much of a hassle to find a way to hook one of those up along with all the 
+other shit we alreayd have in the entertainment center lol 
+[19:12] <darksydephil> yeah both are Samsung 
+
+[19:12] <darksydephil> and they have common stuff like netflix, amazong etc but not wwe network yet that i can 
+see 
+
+[19:12] <darksydephil> i guess i can try and check, its been like 6 months since i last did 
+[19:13] <darksydephil> my schedule is public andreiil984 
+
+[19:13] <darksydephil> theres no need to ask what im going to play when its posted on my twitter and in the 
+week in preview 
+
+[19:14] <darksydephil> yeesh. if i dont get some more bits/subs tonight, today will be the worst profitable day 
+
+streaming since i returned to twitch. TLG really killed it lol 
+
+[19:14] <darksydephil> FFXV story will be done, but not post game i dont thi nk 
+
+[19:14] <darksydephil> i heard the puzzle dungeon alone is 5 hours long 
+
+[19:15] <darksydephil> i already knew how FFXV would end because i saw kingsglaive lol 
+
+[19:15] <darksydephil> its a huge fucking spoiler 
+
+[19:17] <darksydephil> ok ill start talking in a sec 
+
+[19:17] <darksydephil> just trying to finish this cough drop 
+
+-#DARKSYDEPHIL 20161213-01 OVERWATCH 18TH.LOG 
+
+[11:44] <darksydephil> whoa 
+
+[11:44] <darksydephil> twitch updated the dashboard overnight 
+[11:44] <darksydephil> it actually added a couple of new things 
+[11:44] <darksydephil> you can actually see how many subs you have now lol 
+
+[11:44] <darksydephil> also they removed the ability to run ads when you're not streaming, which i always 
+wondered about 
+
+[11:45] <darksydephil> we’re talking about the broadcaster dashboard, if you don't broadcast, you don't see it, so 
+you wouldn’t notice 
+
+[11:46] <darksydephil> btw new emote is live! 
+
+[11:46] <darksydephil> dspWowdude 
+
+[11:47] <darksydephil> tons of people are probably going to be streaming overwatch today lol 
+[11:47] <darksydephil> im definitely getting some lootboxes, Christmas skins ftw 
+[11:48] <darksydephil> bethe it is up in the uSA 
+[11:48] <darksydephil> but you're not USA, right? 
+
+[11:48] <darksydephil> DeltaForce355 i’m not spending any mor emoney on SFV 
+[11:48] <darksydephil> so unless he's completely free, nope 
+
+[11:48] <darksydephil> that game can die. only fgc hardcore even talk about or play it anymore 
+[11:48] <darksydephil> i expect mostly mccrees 
+
+[11:49] <darksydephil> especially since the game was like 20 bucks for a week during black friday 
+
+[11:49] <darksydephil> mvc infinite ill play, it actually is looking more like old school vs games such as Xmen 
+
+vs SF, which was my favorite 
+
+[11:49] <darksydephil> so we’ll see. it'll probably still be horribly broken bullshit though 
+
+[11:50] <darksydephil> brb, gonna get drinks adn then start the stream 
+
+[11:50] <darksydephil> the patch is almost done installing 
+
+[11:50] <darksydephil> i hope it doesn’t Popsicolo , that sucked last time 
+
+[11:54] <darksydephil> ugh 
+
+[11:54] <darksydephil> the new layout looks awful on my laptop... 
+
+[11:54] <darksydephil> everything is squished 
+
+[11:54] <darksydephil> dont think they actually messed enough with it lol 
+
+
+
+
+[11:54] <darksydephil> the chat is squashed all the way to the right side of the screen now 
+
+[11:55] <darksydephil> i think ill pop it out 
+
+[11:55] <darksydephil> ok 
+
+[11:55] <darksydephil> lets see how this works 
+
+[11:56] <darksydephil> they'd said symmetra would be improved 
+
+[11:58] <darksydephil> good to see the top story in my APple news feed today is that Kanye West visited Trump 
+Tower, because nothing else is going on in the fucking world 
+[11:58] <darksydephil> sigh 
+
+[11:58] <darksydephil> ok, going to get the stream live now lol 
+[12:04] <darksydephil> oh crap i misclicked 
+[12:04] <darksydephil> sorry all, ad is playing by acccident 
+[12:04] <darksydephil> my fault lol 
+
+[12:05] <darksydephil> actually i only see the option to run a 30 second ad now 
+
+[12:05] <darksydephil> thats not good, for longer breaks i like to run the block of ads. they removed it... 
+
+[12:05] <darksydephil> sigh 
+
+[12:07] <darksydephil> but if you’re going on a real break Bammbino , then being limited to ONE 30 second ad 
+is ridiculous 
+
+[12:07] <darksydephil> its been 3 minutes and the ability to run an ad hasn’t even returned yet lol, it's greyed out 
+
+[12:08] <darksydephil> testing recording now 
+
+[12:08] <darksydephil> hopefully it fucking works today 
+
+[12:08] <darksydephil> 'if not a quick restard 
+
+[12:08] <darksydephil> restart 
+
+[12:08] <darksydephil> thanks N0 H3R0 ! 
+
+[12:08] <darksydephil> oh good, the same bug just happened 
+[12:08] <darksydephil> let me try something 
+[12:09] <darksydephil> darn didnt work 
+
+[12:09] <darksydephil> well i have to restart the stream again, seems like a regular occurrence now that OBS 
+studio is a piec eof shit lol 
+
+[12:09] <darksydephil> stream will quickly restart, brb 
+[12:10] <darksydephil> ok testing recording again 
+
+[12:11] <darksydephil> oh yeah? not surprising, if its happening to me its got to be with others too 
+
+[12:11] <darksydephil> ok recording worked again, im seeing the pattern now lol 
+
+[12:11] <darksydephil> first attempt at recording always fails, have to restart obs then it works 
+
+[12:13] <darksydephil> ok i just tweeted that we’r elive 
+
+[12:13] <darksydephil> ill talk in a sec, gonna blow my nose first lol 
+
+[12:14] <darksydephil> dspWowdude 
+
+[12:21] <darksydephil> looks like the "new" twitch dashboard is messed up, viewer count isn't updating for me 
+unless i freaking refresh the page.... lame 
+
+[12:22] <darksydephil> LOL now twitch says im not online despite my watching my own stream on the 
+dashboard 
+
+[12:22] <darksydephil> this new dashboard is pretty buggy lol 
+[13:43] <darksydephil> how does the stream look for everyone? 
+
+[13:43] <darksydephil> i just relaized its the first time i streamed this on twitch 
+[13:43] <darksydephil> ok cool 
+
+[13:43] <darksydephil> now im just nervous about how the vidoes will look 
+[13:43] <darksydephil> guess we’ll see lol 
+[14:20] <darksydephil> ok later pharoah 
+[14:50] <darksydephil> is the stream working? 
+
+[14:50] <darksydephil> its buffering nonstop on my screen wtf 
+[14:50] <darksydephil> ok let me refresh 
+
+
+#DARKSYDEPHIL 20161213-02 BATMAN EP5.LOG 
+
+
+
+
+[17:35] <darksydephil> stream title updated 
+
+[17:35] <darksydephil> therefore you know what's coming now! 
+
+[18:50] <darksydephil> anybody around? 
+
+[18:50] <darksydephil> cool 
+
+[18:51] <darksydephil> setting up the batman stream now 
+
+[18:51] <darksydephil> ive actually heard its the shortest episode, wtf lol 
+
+[18:55] <darksydephil> so heres the deal 
+
+[18:55] <darksydephil> today playing Overwatch, sadly the videos on YT kind of look shitty 
+[18:55] <darksydephil> they're very jumpy and jarring because the framerate is all over the place 
+[18:55] <darksydephil> yeah, but im glad i did that today because it was a good test, its not like anybody is going 
+to be super angry that th evids don't look so hot 
+
+[18:56] <darksydephil> SO what i think im going to do, moving forward... 
+
+[18:56] <darksydephil> if a game runs at 60fps, i may stream it on YOuTube. that way i can stream/record at the 
+same quality and the youtube videos will NOT be affected 
+
+[18:56] <darksydephil> everything else will be on Twitch, and let's face it, the vast majority of games these days 
+dont do 60fps 
+
+[18:56] <darksydephil> no, i DID record at 1080/60fps 
+[18:56] <darksydephil> BUT 
+
+[18:57] <darksydephil> the issue is, i cannot stream at that quality because of twitch's bandwidth limitations 
+[18:57] <darksydephil> and streaming at one quality while recording in another is VERY taxing on my 
+computer's CPU 
+
+[18:57] <darksydephil> it works for 30fps games, but not for 60, as we can now see in today's videos 
+[18:58] <darksydephil> exactly! 
+
+[18:58] <darksydephil> soooo i guess the decision moving forward will be: if a game is 60fps, do i record/stream 
+it at 720p/60fps only, OR do i go back to YouTube to stream it at the full 1080p/60fps.... 
+
+[18:58] <darksydephil> its a tough call 
+
+[18:58] <darksydephil> for example, resident evil 7 
+
+[18:59] <darksydephil> its going to be the first major game where i have to make this decision 
+[18:59] <darksydephil> TONS of people will want to see me play it on twitch 
+
+[18:59] <darksydephil> but that would mean lowering the quality of the YT videos to 720p...so i dunno 
+[18:59] <darksydephil> for RE7, honestly? i dont think it would matter that much, the game isn’t the best looking 
+game at all 
+
+[19:00] <darksydephil> but for all new releases moving forward, it could be a tough call. 
+
+[19:00] <darksydephil> they can. they just don't care 
+
+[19:00] <darksydephil> Twitch business methodology is: make as much money as possible with as little as 
+possible 
+
+[19:00] <darksydephil> that's it 
+
+[19:00] <darksydephil> they don't care about the quality of the streams at all 
+
+[19:01] <darksydephil> that's why they changed their entire business methodology from "the best game 
+streaming service on the net" to "a place where you can share in the personalities of streamers" lol! 
+
+[19:01] <darksydephil> because they found out that people will open their pockets for people with charisma and 
+doing constant shoutouts etc 
+
+[19:02] <darksydephil> yeah, it's a shame BC youtube streaming, overall, is better quality 
+
+[19:02] <darksydephil> but YouTube management are so dumb fuck stupid and douchey, they can't accept that 
+
+they squandered the live streaming opportunity 
+
+[19:02] <darksydephil> youtube gaming! We’ll just make a website and app and hope everyone uses it, despite 
+not having any competitive advantage and a far worse chat! sounds like a great idea lol 
+[19:03] <darksydephil> oh shit, its after 7. let me get the stream going, my bad lol 
+
+[19:05] <darksydephil> Marie: Twitch says you can only stream content EXCLUSIVE to their platform for 24 
+hours 
+
+[19:05] <darksydephil> deep beat me to it lol 
+
+[19:05] <darksydephil> so for example, if i only play RE7 on youtube, then i can play anything else here on 
+
+
+
+twitch, but i couldn’t simulcast on both services, or have the on demand videos on both sites at the same time 
+
+[19:06] <darksydephil> thats why amocoru 
+
+[19:06] <darksydephil> they saw it as direct competition 
+
+[19:06] <darksydephil> shit, stream not live yet is it? 
+
+[19:06] <darksydephil> its not going live fo rme but i turned it on 
+[19:06] <darksydephil> oh it' slive?!? 
+
+[19:07] <darksydephil> my dashboard isn’t working here 
+[19:07] <darksydephil> ok let me refresh 
+
+[19:07] <darksydephil> ok it is working, the dashboard just wasn't working 
+[19:07] <darksydephil> this new dashboard has a lot of bugs to work out lol 
+[19:08] <darksydephil> ok im going to use the restroom, then ill finish setting up etc 
+[19:08] <darksydephil> bandwagoningman : i used xsplit from 2013-2014 
+
+[19:08] <darksydephil> but it didn’t work properly with my capture device when i upgraded after i got the new 
+pc etc 
+
+[19:08] <darksydephil> and i dont know if they ever fixed that issue or not. be it woudln't work AT ALL with it 
+[19:09] <darksydephil> i probably still have the xsplit subscription be i bought like 3 years during thi shuge 
+discount 
+
+[19:09] <darksydephil> ok shit, i have to piss, brb lol 
+
+[19:12] <darksydephil> ok back 
+
+[19:12] <darksydephil> ill tweet that we’re live 
+
+[19:13] <darksydephil> crowd play was too distracting with the CONSTANT up and downvoting 
+[19:13] <darksydephil> no idea why they even put it in there be it didn’t amount to anything anyway 
+[19:14] <darksydephil> just tweeted that we’re live 
+
+[19:14] <darksydephil> i believe total cost of my internet for both lines combined is just under $400 a month lol 
+[19:14] <darksydephil> fucking Comcast 
+
+[19:15] <darksydephil> yup its the only way to avoid the bandwidth caps they've now enforced 
+
+[19:16] <darksydephil> yup and it's them or nothing, no other providers do internet fast enough for streaming 
+
+here, same as in CT where i was always stuck with Cablevision 
+
+[19:17] <darksydephil> keep in mind, my internet is 2 business lines, fastest available here, unlimited data, no 
+caps etc and 24/7 customer support 
+
+[19:17] <darksydephil> so its really expensive for a reason 
+
+[19:17] <darksydephil> i NEVER would have gotten my DDoS issue last year resolved if i just had regular 
+
+residential internet, they woudln't have given a shit lol 
+
+[19:18] <darksydephil> because no internet is 100% stable, Skulljackl7 
+
+[19:18] <darksydephil> and FIOS doesn't exist, it was a limited run test that isn't being spread any more 
+[19:18] <darksydephil> what im wiating for is the fiber optic internet to spread out of downtown/campus Seattle 
+into the surrounding territories, ill be on that shit 
+[19:19] <darksydephil> yup 
+
+[19:34] <darksydephil> do not make a listing of blacklisted words 
+
+[19:34] <darksydephil> that will only lead the trolls to find ways around them 
+
+[19:34] <darksydephil> thanks 
+
+[21:13] <darksydephil> yeah i forgot the shoutouts 
+
+[21:13] <darksydephil> ill do them tomorrow i guess 
+
+[21:13] <darksydephil> rx93gundamm , you subbed, so if you don’t like my humor, you must be an idiot lol 
+[21:14] <darksydephil> well you constantly talk shit in here, so i’d be surprised 
+[21:14] <darksydephil> um, this guy paid to sub to me but just shits on me constantly in the chat 
+[21:14] <darksydephil> that's idiotic 
+
+[21:15] <darksydephil> i think he thinks that subbing gives him the right to insult me, but ive already warned 
+
+him once, this is the 2nd time, im not going to be lenient forever 
+
+[21:16] <darksydephil> ok you're all getting confused lol 
+
+[21:16] <darksydephil> enough of this, i need to startuploading 
+
+[21:16] <darksydephil> peace out all! See you for FFXV tomorrow 
+
+
+
+-#DARKSYDEPHIL 20161214-01 FFXV 13TH.LOG 
+
+[11:48] <darksydephil> hello 
+
+[11:51] <darksydephil> submitting a new emote now! 
+
+[11:56] <darksydephil> glitch emote has been submitted, special thanks to Popsicolo for pumping it out so 
+quickly 
+
+[12:02] <darksydephil> ok gonna start the stream 
+
+[12:04] <darksydephil> ok running downstairs to grab drinks 
+
+[12:04] <darksydephil> brb 
+
+[12:04] <darksydephil> then ill tweet etc 
+
+[12:04] <darksydephil> hope some mods show up lol 
+
+[12:04] <darksydephil> oh! theres silent, excellent 
+
+[12:04] <darksydephil> LOL i think telltale agmes are falling apart 
+
+[12:05] <darksydephil> lazy game design, using all the same assets etc 
+
+[12:08] <darksydephil> FYI the glitch face from batman last night is a new emote, i just submitted it thanks to 
+Popsicolo lol 
+
+[12:09] <darksydephil> i couldn't think of a more perfect example of a glitch lol 
+[12:22] <darksydephil> holy crap 
+
+[12:23] <darksydephil> the new emote is alreayd approved 
+
+[12:23] <darksydephil> dspGlitch 
+
+[12:23] <darksydephil> ok not showing up yet 
+
+[12:23] <darksydephil> but i just got hte approval email 
+
+[12:23] <darksydephil> so it should be live here today 
+
+[12:23] <darksydephil> OH GOD 
+
+[12:23] <darksydephil> lol 
+
+[12:23] <darksydephil> that's fucking disturbing 
+
+[12:24] <darksydephil> nope it JUST got approved like 5 minutes ago so 
+[12:24] <darksydephil> it'll show up soon 
+
+[13:23] <darksydephil> because its a tiny fucking button prompt while im micromanaging item use? 
+
+[13:23] <darksydephil> try seeing it while playing yourselves lol 
+[13:23] <darksydephil> its awful 
+
+[15:24] <darksydephil> could you shut up? ive hear the flying is awful and cuases a game over if you crash 
+[15:24] <darksydephil> unless im doing the puzzle dungeon im not going to fly 
+
+-#DARKSYDEPHIL 20161214-02 FFXV 14TH.LOG 
+
+[18:49] <darksydephil> hello folks 
+
+[18:50] <darksydephil> so my throat has swollen, delightful, going to get a cup of hot tea and then set up for 
+round 2 of postgame, that last fight was pretty sweet, can't wait to see more 
+[18:50] <darksydephil> hello! 
+
+[18:50] <darksydephil> brb lol 
+
+[19:02] <darksydephil> im going to do the legendary hunts, no worries 
+[19:03] <darksydephil> ok im going to get the stream going again now 
+[19:06] <darksydephil> DLC? lol 
+
+[19:06] <darksydephil> already? 2 weeks after release there'se a fucking die? 
+
+[19:08] <darksydephil> so theres a hunt for the boss of costlemark? 
+
+[19:08] <darksydephil> right now im thinking of doing more of these legendary hunts since the last one was very 
+doable, would have beaten it easily without using Shiva if she hadnt shown up 
+[19:08] <darksydephil> and then eventually on to costlemark 
+
+[19:10] <darksydephil> ok cool, ill definitely get that quest before i do costlemark yet 
+[19:10] <darksydephil> what woman gives me a key to what? 
+
+[19:11] <darksydephil> a lot of people were sayin ga LOT of stuf earlier and it was very confusing 
+[19:11] <darksydephil> it would help if the game would just explain stuff, but nope, of course not 
+
+
+
+
+
+[19:11] <darksydephil> yes, the locked doors 
+
+[19:11] <darksydephil> so i have to complete costlemark before i can do that? 
+
+[19:12] <darksydephil> be thats literally the only dungeon left 
+[19:12] <darksydephil> i could do costlemark though, im level 60 now 
+[19:12] <darksydephil> but i might want to do more legendary hunts first 
+
+[19:14] <darksydephil> that woudln’t be a problem as long as they actually put a fucking camp in there unlike the 
+sewer dungeon, but this game is incredibly inconsistent 
+
+[19:14] <darksydephil> put camps into the EASIER dungeons and not the harder ones, wtf 
+
+[19:14] <darksydephil> again, it feels so unfinished, like they meant to have a camp in every dungeon and just 
+
+didnt get aroudn to it 
+
+[19:15] <darksydephil> ive got stabbing pain in my throat, delightful, not a sore throat but a part is swollen up 
+and hurts like hell 
+
+[19:15] <darksydephil> think im goin gto use that throat spray shit to numb it before we start, just had a hot tea 
+
+and it didnt do anything 
+
+[19:16] <darksydephil> wtf are pitioss ruins 
+
+[19:16] <darksydephil> shotinthedeep how have you NOT heard about how bad health care is and how it makes 
+
+zero sense fo rme to ever see a doctor unless i'm not dying? lol 
+
+[19:16] <darksydephil> oh, i know about the puzzle dungeon 
+
+[19:16] <darksydephil> im doing it, but not now 
+
+[20:41] <darksydephil> this dungeon is fucking boring 
+
+[20:42] <darksydephil> way worse than the others, even the sewers were better 
+
+[20:55] <darksydephil> congrats, you guys were like 40 seconds late lol 
+
+[21:08] <darksydephil> you guys actually said RIGHT when i started this part 
+
+[21:08] <darksydephil> so i chose right 
+
+[21:08] <darksydephil> and now you say it was left lol 
+
+[21:52] <darksydephil> im honestly not too angry, if all i have to do is refight that boss 
+[21:52] <darksydephil> be that boss was fing easy lol 
+
+[21:52] <darksydephil> if i had to redo ALL THE FUCKING FLOORS of the dungeon including the red giant 
+
+fights, id lose my shit 
+
+[21:53] <darksydephil> oh really? 
+
+[21:53] <darksydephil> well id already won 
+[21:53] <darksydephil> no reason to summon 
+
+[21:54] <darksydephil> yeah seriously, why the fuck would you put that boss after a gauntlet of red giants... thats 
+INSANELY STUPID 
+
+[21:54] <darksydephil> like, game designer 101, PROGRESSIVE difficulty 
+[21:54] <darksydephil> they didn’t even get that right 
+
+[21:55] <darksydephil> sucks man, ive got such fucking blue balls, wanted to finish that dungeon tonight 
+
+[21:55] <darksydephil> now i have to wait 2-3 days 
+
+[21:56] <darksydephil> ok fair enough 
+
+[21:56] <darksydephil> probably friday or Saturday then 
+
+[21:56] <darksydephil> and then onto bigger fights 
+
+-#DARKSYDEPHIL 20161215-01 LAST GUARDIAN 3RD.LOG 
+
+[11:54] <darksydephil> hello folks 
+
+[11:54] <darksydephil> Icureditwithmybrain seriously? damn its a classic, happy to hear that you've now seen it! 
+
+[11:55] <darksydephil> a Miyazaki anime woul dhae worked perfectly 
+
+[11:56] <darksydephil> there's at least 2 hours left from what everyone saw on youtube 
+
+[11:57] <darksydephil> people who've beaten this game take about 2 hours from the point i’m at, on average, to 
+beat it 
+
+[11:57] <darksydephil> so we’ll at least get most of a stream 
+
+[11:57] <darksydephil> plus honestly, my voice sucks, so if we end early, good 
+
+[11:58] <darksydephil> i dunno if tonight im doing dead rising 4 or working on TLG review, i think it depends o 
+
+
+
+
+my voice, a stream may be LESS taxing as doing the voiceovers for a review is a ton of work 
+
+[11:58] <darksydephil> i’m definitely going to download Lost Odyssey but im not going to play it in January 
+
+[11:58] <darksydephil> thats far too much Crash for one year eobardthawn362 lol 
+
+[11:59] <darksydephil> cless i said it would be on my bucket list and would be a great final game to play, yeah, 
+but now i just want to play it after hearing the classic FF tunes from FFXV 
+[11:59] <darksydephil> just got that itch and january is the perfect time to do it 
+[11:59] <darksydephil> along with ocarina of time 
+
+[12:00] <darksydephil> i also want to replay Dark Souls 1 as a legit playthrough, but i dont think ill be able to fit 
+it in before RE7. because the year-end series always run long, but we’ll see what happens 
+[12:01] <darksydephil> yeah, and i haven't even started on year end stuff yet. ive been crazy busy with these 4 
+ongoing games 
+
+[12:01] <darksydephil> so i need to start finishing these up 
+
+[12:02] <darksydephil> i think dead rising will be 2 more sessions, FFXV postgame isn’t going to end anytime 
+soon lol 
+
+[12:03] <darksydephil> pokemon im only like 60% through i think 
+
+[12:03] <darksydephil> and hilariously, according to youtube, dspgaming is doing awful this month, one of the 
+worst ever apparently lol 
+
+[12:04] <darksydephil> im hoping that the year end series give me a boost of views by the end of the month but 
+who knows, may be a f ing stinker overall, so hopefully the twitch revenue will help that 
+[12:04] <darksydephil> in comparison, last year i made a ridiculous amount f money in December, this is what 
+all YouTUbers are talking about, YouTube massively changed something and now nobody is making money 
+anymore 
+
+[12:06] <darksydephil> i seriously need to start convincing people that youtube isn’t going to support me 
+anymore, so they NEED to pledge to patreon and/or sub/give bits here, be at this rate, it's a joke 
+[12:06] <darksydephil> im on pace to make HALF as much in december this year as i did last year...playing 
+FOUR new games. 
+
+[12:07] <darksydephil> i just dont think people take it seriously, is all 
+
+[12:07] <darksydephil> they think im lying or something and that ill be here forever no matter what 
+[12:07] <darksydephil> they believe these crazy conspiracies 
+
+[12:08] <darksydephil> well yeah, Megamanntl25 . people won’t pledge or do anything, but then once i’m gone 
+
+there will be a mass yell about how it's a shame i'm gone 
+
+[12:08] <darksydephil> its the ultimate complacency 
+
+[12:08] <darksydephil> especially when everything i do IS technically free 
+
+[12:09] <darksydephil> ok, stream should be live? 
+
+[12:09] <darksydephil> OK cool, and the recording issue is solved already 
+[12:09] <darksydephil> it has nothign to do with the detractors and haters 
+
+[12:10] <darksydephil> it has everything to do with the fact that im not making money anymore, just got 
+notification my bank account is overdrawn, luckily my machinima payment is literally coming through today 
+[12:10] <darksydephil> people think im lying or joking when i say that im in trouble, im not. those "dry" months 
+in the summer through September really hurt me. and hteres stuff going n behind the scenes i dont talk about 
+[12:11] <darksydephil> then on top of all that ive been sick, it just compiles more and more 
+[12:11] <darksydephil> thats why i need to play FF4. i need to play something from my roots that i love and will 
+get me feeling good about all this even if things aren't going well financially 
+
+[12:12] <darksydephil> i watched It's a Wonderful Life last nigth and realized that's pretty much my situation 
+
+[12:12] <darksydephil> that you guys have repeatedly helped me and pulled me out of hte fire just like George 
+
+Bailey, but that things get to me a lot, just like they do to George, but then i get a wave of positivity and support 
+
+and keep going be you tell me what i do here is meaningful 
+
+[12:15] <darksydephil> ok swapping over to the laptop, give me a sec lol 
+
+[12:20] <darksydephil> im not down, i barely have a voice 
+
+[12:20] <darksydephil> just like yesterday 
+
+[12:20] <darksydephil> lol badge upgrade randomness 
+
+[12:20] <darksydephil> lemon and honey dont do anything, lol. they just flavor hot tea 
+
+
+
+[12:21] <darksydephil> what people seem to fail to realize about my pc is that i haven’t built a pc in ten years 
+and wouldn’t recognize modern components, the last time i paid someone to build a pc for me, it horribly 
+backfired and i got nothing but shit for it. so i bought a premade one, only to get shit for it lol 
+[12:22] <darksydephil> there is no ideal situation here, i dont have the know how to build a pc, EVER again, so 
+ill always overpay and get something not as good as if it were custom built by a pro 
+
+[12:22] <darksydephil> when i bought this PC, everyone assured me it was powerful enough to both record and 
+stream at the same time, as soon as i got it, everyone said it wasn’t lol 
+
+[12:23] <darksydephil> i have no "friend" to build a pc for me. there is no "shop" that magically does this service 
+
+[12:23] <darksydephil> this is not a fantasy world lol 
+
+[12:23] <darksydephil> this is what people dont seem to understand 
+
+[12:23] <darksydephil> ok im going to say this again 
+
+[12:23] <darksydephil> I AM NOT GOING TO BUILD A PC 
+
+[12:23] <darksydephil> holy fuck people dont get this 
+
+[12:24] <darksydephil> "have a friend build it for you" which i did, years ago, and got an underpowered, 
+damanged PC that peopel did nothing but make fun of lol 
+
+[12:24] <darksydephil> again, its easy to live in a fantasy world, thats not my reality 
+
+[12:25] <darksydephil> i dont have any money, i cant buy a ps4 pro, im not buying a new computer any time 
+soon 
+
+[12:26] <darksydephil> the next necessary equipment ill need is probably a new TV and ps4 pro 
+
+[12:26] <darksydephil> RickGrimesFanl23 don't you remember all of 2015 when i was selling them? lol 
+
+[12:27] <darksydephil> yeah and/or assholes saying they wer einterested but then just wasting my time 
+
+[12:27] <darksydephil> so i stopped for an entire year, might bring it back next year, we'll see 
+
+[12:28] <darksydephil> there is no saving 
+
+[12:28] <darksydephil> i have no money to save 
+
+[12:28] <darksydephil> all money goes direct to bills 
+
+[12:29] <darksydephil> dumb fuck kids 
+
+[12:29] <darksydephil> ok prestream time i guess 
+
+[13:32] <darksydephil> when did i "almost ragequit" exactly? lol 
+
+[13:33] <darksydephil> rush?!?! 
+
+[13:33] <darksydephil> lolol 
+
+[14:19] <darksydephil> a technical giant? i can name 5 recent games that look better than this lol 
+[14:20] <darksydephil> this would have been a technical giant 5-10 years ago, not today 
+[14:43] <darksydephil> enough of that idiot 
+[14:43] <darksydephil> this one too 
+
+[14:43] <darksydephil> i wonder if these morons enjoy talking out of their asses and circle jerking each other 
+when im trying to play a game 
+
+[14:44] <darksydephil> insulting my reviews lol. yes, because every review i make, i totally make shit up about 
+bugs 
+
+[14:44] <darksydephil> get the fuck out of here 
+
+[14:45] <darksydephil> most people who comments on my reviews say they're pretty damn good, even peopel 
+who usually dont like me agree that my reviews are very fair, balanced and well thought out 
+[14:45] <darksydephil> so when idiots are going to come in here and say that i make shit up and say theres tons 
+of bugs in my reviews, they’re getting the fuck out 
+
+[14:47] <darksydephil> ive cut down massively on rambling lately, if you haven’t watched the last few reviews 
+[14:47] <darksydephil> trying to make them more streamlined without losing my critical points 
+[14:47] <darksydephil> lol a $100 bit emote? thats insane 
+
+[14:48] <darksydephil> skulljack: theres criticism and then theres just outright lies, its OK to say "you ramble a 
+bit too much" but its not okay to say "you constantly call out bugs because you suck at games, they dont exist." 
+One is an opinion, while the other is factually wrong 
+[14:48] <darksydephil> see? 
+
+[14:48] <darksydephil> johnnysabian says something thats an outright lie 
+[14:48] <darksydephil> he gets fucking banned 
+
+
+
+[14:48] <darksydephil> its cause and effect lol 
+
+[14:49] <darksydephil> free speech allows you to just spew out incorrect things as facts? really? lol 
+[14:50] <darksydephil> um, the entire stream chat was distracted from the game and talking about it here 
+[14:50] <darksydephil> so i put an end to it lol 
+[14:50] <darksydephil> again, cause and effect 
+[14:50] <darksydephil> yeah, exactly 
+
+[14:50] <darksydephil> you can say whatever you want, and then get your ass kicked afterward for it lol 
+[14:51] <darksydephil> its like, you have the right to walk into a black neighborhood and say the N word out 
+loud constantly, and you also have the right to get your fucking ass kicked immediately for doing it lol 
+[14:53] <darksydephil> skulljack, you cannot make statements like that without evidence, lol. i run into TONS 
+OF BUGS all the time that others dont. its kind of a running thing 
+
+[15:11] <darksydephil> no alexdaye , i did not. i said i remembered how to use the shield, but not how to 
+equip/unequip it which was never needed, two very different things 
+
+[15:28] <darksydephil> if you think any kind of rules or order is naziesque, i suggest you move to a country with 
+no organized government, and never attend any streams, ever. 
+
+[15:49] <darksydephil> fucking moron 
+
+[15:54] <darksydephil> yes Teslawasrobbedacl , its my fault the game does whatever it wants and kills me in a 
+part i can’t do anything to hold on. you, sir, are a moron. 
+
+[15:56] <darksydephil> another moron lol 
+
+[16:07] <darksydephil> neonbornspartan9 yup, i fully agree, if hte game worked as intended it would have been 
+
+2 hours shorter lol 
+
+[16:26] <darksydephil> oh wtf 
+
+[16:26] <darksydephil> OBS had an error and completely restarted! lol 
+[16:26] <darksydephil> it gave mea crash error so i closed it and started uploading 
+[16:26] <darksydephil> and now it was opened again streaming wtf?! 
+
+[16:26] <darksydephil> there is some weird shit giong on haha 
+
+[16:26] <darksydephil> uh no, this time, all you caught me doing was uploading 
+
+[16:26] <darksydephil> WITH MY PANTS ON 
+
+[16:27] <darksydephil> dspSurpriseddsp is the camera on? 
+
+[16:27] <darksydephil> completely naked, covered in baby oil....just uploading videos! 
+
+[16:28] <darksydephil> nobody watched Monday's batch of TLG so i guess this batch will also go unwatched on 
+YT lol 
+
+[16:28] <darksydephil> sigh 
+
+[16:28] <darksydephil> at least its almost over 
+
+[16:30] <darksydephil> jesus that was a hell of a gauntlet you ran lol 
+
+[16:30] <darksydephil> i couldn't play this game in one sitting, id lose it 
+
+[16:30] <darksydephil> yeah ive played around 10 hours right now 
+
+[16:31] <darksydephil> ok folks, see you at 7pm pst for the conclusion! 
+
+-#DARKSYDEPHIL 20161215-02 LAST GUARDIAN 4TH.LOG 
+
+[18:59] <darksydephil> hello all 
+
+[18:59] <darksydephil> FYI setting up the stream now 
+
+[18:59] <darksydephil> just gotta add the earlier vids to playlist first 
+
+[19:05] <darksydephil> ok just turned the stream on 
+
+[19:05] <darksydephil> so should be live shortly 
+
+[19:06] <darksydephil> it only has one more area, according to those who've beaten it already, so i should be 
+good 
+
+[19:09] <darksydephil> i am not your daddy, and i dont want to be lol 
+[19:09] <darksydephil> thanks Silentgeneral ! 
+
+[19:10] <darksydephil> we see ya Skulljack 17 
+
+[19:10] <darksydephil> yes, im that guy that speaks truth about the games he plays instead of blindly kissing ass 
+to the big game devs when they fuck up 
+
+
+
+
+[19:11] <darksydephil> ok let me tweet that the stream is live 
+
+[19:12] <darksydephil> Silentgeneral did you cheer earlier today with bits? 
+
+[19:12] <darksydephil> be if you did, i think that Streamlabs can’t read your name or something, it always shows 
+
+up as an invisible name lol 
+
+[19:13] <darksydephil> yea how bizarre 
+
+[19:14] <darksydephil> every time you give bits its just a blank name 
+
+[19:14] <darksydephil> i wonder if its a bug that has certain parameters in a name or something 
+[19:14] <darksydephil> nope 
+
+[19:14] <darksydephil> i have no desire to play anything else kingdom hearts until 3 is out 
+[19:14] <darksydephil> persona 5 is a definite yes 
+
+[19:15] <darksydephil> Karlis K i certainly did today, except for these glitches that dont list the name 
+[19:15] <darksydephil> lets face it, im going to be insanely confused when i play KH3 regardless 
+[19:15] <darksydephil> i dont need to suffer through another game lol 
+[19:18] <darksydephil> Bammbino i have 2 plans for Christmas 
+
+[19:18] <darksydephil> first on Christmas eve im doing a WWE2kl7 holiday fantasy sims session 
+[19:18] <darksydephil> i do it every year, its always nuts, and peopel love it. the live stream should be super fun 
+[19:19] <darksydephil> then on Christmas im going to do 1 stream, and its going to be a more "chill" stream 
+where im talking with people outside of the gameplay. undecided what games its going to be but maybe 
+battlefield, we’ll see 
+
+[19:19] <darksydephil> Rpgmaniac23 i dont HATE it, but i dont feel like it's a necessary game, a person could 
+skip this game completely and miss nothing, there have been similar and far better games int he last 10 years that 
+have surpassed what this one was going for 
+[19:20] <darksydephil> no, i will not 
+
+[19:20] <darksydephil> well exactly, if you wer ea huge fan of team ico, and you've been eagerly awaiting this 
+game for 10 years, you'll probably forgive its tons of shortcomings and love it. everyone else? lol 
+[19:21] <darksydephil> pokemon will resume once these games start to complete, seeing that TLG ends tongiht, 
+pokemon will return next week for sure 
+
+[19:22] <darksydephil> well in order to review FFXV i want to do more postgame stuff, since it seems for those 
+who love the gameplay, postgame is a HEAVY chu nk of hte game, it'd be completely unfair to review it before i 
+did more of the endgame 
+
+[19:22] <darksydephil> but im going to say sometime this comign week 
+[19:23] <darksydephil> wtf was that 
+[19:23] <darksydephil> lol 
+
+[19:23] <darksydephil> he seriously typed a huge essay nobody could see? lol 
+
+[19:24] <darksydephil> chapter 13 is not the worst thing in a game, by far. its functional, it just has no place in a 
+FF game and that's why it sucks so bad 
+[19:24] <darksydephil> time for a cough drop 
+
+[19:25] <darksydephil> right now im on mucinex, robitussin and cough drops lol 
+[19:25] <darksydephil> and my throat is still hoarse 
+
+[19:25] <darksydephil> kamranml200 i imagine you don’t live in the USA? if you did, you'd know the answer to 
+that lol 
+
+[19:26] <darksydephil> ok then kamranml200 , makes sense lol 
+
+[19:26] <darksydephil> here we don’t just get to go to the doctor, it means hundreds of not thousands of dollars 
+in out of pocket costs 
+
+[19:26] <darksydephil> so....we suffer, a lot. 
+
+[21:00] <darksydephil> that's not an excuse for not explaining TO THE PERSON WHO PAID FULL RETAIL 
+PRICE wtf is going on lol 
+
+[21:00] <darksydephil> sure, maybe the boy doesn’t know, so explain it to us afterwards 
+[21:01] <darksydephil> not "oh well, tough shit" 
+
+[21:01] <darksydephil> and if there's a fucking paid-for DLC to explain, fuck this game even more lol 
+[21:01] <darksydephil> yes, and those are weak fucking stories 
+
+[21:02] <darksydephil> it shouldn’t be for anyone who wants to pay full retail price for a game, give me an 
+
+
+
+incomplete story with outdated/shoddy gameplay and badly performing graphics, then don’t charge me full price 
+[21:02] <darksydephil> for example, INSIDE earlier this year. I had a lot of issue with the plot, but the game 
+wasn't $60. so it didn’t really have a huge affect on the overall game 
+
+[21:03] <darksydephil> plot is an integral part of a satisfactory gaming experience in most cases, especially if the 
+gaemplay isn’t riveting or addictive, so it HAS to be fully flushed out or else it's just cop out bullshit by the devs 
+[21:03] <darksydephil> again, if this were 7 years ago, that gameplay and graphics WOULD have been 
+groundbreaking, today, they are not 
+
+[21:05] <darksydephil> that will always be the case, especially when you have a dedicated fanbase for a 
+particular game dev 
+
+[21:06] <darksydephil> look at final fantasy xv for example, that game has HUGE amounts of common 
+problems that most people admit, but the fans are still saying it's insanely good while others are insanely 
+disappointed 
+
+[21:06] <darksydephil> luckily i tend to see these things from both sides of the fence and bring both perspectives 
+into my reviews 
+
+[21:08] <darksydephil> one perspective would be of the common gamer, comparing this game to all other 
+modern games of recent memory 
+
+[21:08] <darksydephil> the other perspective is from the viewpoint of someone who is a huge fan of 1. team ico 
+or 2. more artistic style games 
+
+[21:08] <darksydephil> I actually thing TLG has an audience, its just not a huge one in comparison with 
+everything els eout there right now 
+
+-#DARKSYDEPHIL 20161216-01 FFXV 15TH.LOG 
+
+[11:53] <darksydephil> test 
+
+[11:53] <darksydephil> can anyone see this? 
+
+[11:54] <darksydephil> uh oh 
+
+[11:54] <darksydephil> testing 
+
+[11:55] <darksydephil> ok good 
+
+[11:55] <darksydephil> it wasn't working at first 
+
+[11:55] <darksydephil> in fact emotes still aren’t working, my laptop never loads properly 
+[11:55] <darksydephil> dspGlitch 
+[11:56] <darksydephil> lol 
+[11:56] <darksydephil> nice, thanks! 
+
+[11:56] <darksydephil> setting up now 
+
+[11:56] <darksydephil> thraot is STILL fucking swollen and in pain, sigh 
+[11:56] <darksydephil> ok give me a sec to get the stream going 
+[11:59] <darksydephil> you mean the jabberwock? LOL 
+
+[11:59] <darksydephil> im also going to go to altissia to get that 3x exp hotel for sure, i want to get like 10 levels 
+out of this dungeon be it was such a pain in the ass 
+
+[12:00] <darksydephil> oh, i have to fight the boss and some normal mobs again, but i dont have to fight the 
+fucking red giants thank god 
+
+[12:00] <darksydephil> actually dont mind fighting the boss, it was easy and tons of exp 
+
+[12:01] <darksydephil> holy fuck 
+
+[12:01] <darksydephil> ok gonna do that then lol 
+
+[12:04] <darksydephil> im going to rest at the 30k inn after this dungeon is over 
+[12:04] <darksydephil> for sure 
+[12:08] <darksydephil> stream live yet? 
+
+[12:08] <darksydephil> i turned it on but not showing on my dashboard 
+[12:08] <darksydephil> oh there it is 
+[12:09] <darksydephil> i refreshed and it went live 
+[12:09] <darksydephil> ok cool 
+
+[12:09] <darksydephil> so my goal is to redo costlemark and find that gem for the quest, which i completely 
+forgot about, since i dont have to redo the red giants it shouldn’t be tough at all. then i want to get max exp from 
+
+
+
+
+it, so im going to altissia for the 30k 3x exp hotel 
+
+[12:09] <darksydephil> after that, ill see waht level i am. hoping to be high enough to take on tougher hunts 
+[12:10] <darksydephil> and some of the NEW dungeons that'll unlock once i have the final royal arm 
+[12:10] <darksydephil> so...a lot still to do, which is good 
+
+[12:10] <darksydephil> yeah im getting it just for the eventual zelda and the new mario, pretty much 
+[12:12] <darksydephil> ok im going to tweet that we're live 
+
+[12:16] <darksydephil> there are people who bought a wii u just for rayman legends. Nintendo doesn't give two 
+shits lol 
+
+[12:17] <darksydephil> theres no way im going to do all of the grinding unlockable dungeons but ill give a few 
+of htem a try 
+
+[12:17] <darksydephil> ill definitely keep trying the hunts, and the puzzle dungeon etc 
+[12:18] <darksydephil> i bet Gilgamesh is who cut Gladio's face. $20 
+
+[12:18] <darksydephil> and you can't save in the dungeon, right? so you HAVE to do it in one shot or leave the 
+ps4 on suspend? lol 
+
+[12:19] <darksydephil> its official that nintendo canceled zelda on the wii u? or just rumor? 
+
+[12:19] <darksydephil> ok i was gonna say, i didnt hear that yet 
+
+[12:20] <darksydephil> well thats true LemonPlaysGames 
+
+[12:20] <darksydephil> because they’re really not rumors, they're leaks 
+
+[12:21] <darksydephil> isnt Chinatown wars like the old school top down GTAs? 
+
+[15:10] <darksydephil> gino, stop spamming links 
+[15:10] <darksydephil> thanks 
+
+[15:17] <darksydephil> i was holding summon the entire time FYI 
+[15:17] <darksydephil> i just didnt say anything 
+[15:17] <darksydephil> fucking thing just doesn't work half the time 
+[15:46] <darksydephil> except i dont have 6 straight hour sto do it lol 
+
+-#DARKSYDEPHIL 20161217 NO STREAMS, ILL.LOG 
+
+-#DARKSYDEPHIL 20161218-01 DEAD RISING 4 6TH, ILL, CANCELLED AT BREAK.LOG 
+
+[12:24] <darksydephil> hello 
+
+[12:24] <darksydephil> im setting up now but im in slow mo today 
+[12:25] <darksydephil> very much feel tired and run down 
+[12:27] <darksydephil> ugh my eyes are burning so badly 
+[12:28] <darksydephil> im a mess today lol 
+
+[12:33] <darksydephil> dead rising 4 is already $40 everywhere lol 
+[12:35] <darksydephil> MOrBison no, on your balls 
+[12:35] <darksydephil> gotta go all in or no thing 
+
+[12:37] <darksydephil> so i got two subs yesterday when i didnt even stream, nice 
+
+[12:38] <darksydephil> thanks bethe2670 for subbing 
+
+[12:41] <darksydephil> no, we’re not getting another pet. why do you ask? 
+
+[12:43] <darksydephil> lol we were just visiting a pet store and buying some xmas presents for Raisin, not in the 
+market for a new pet 
+
+[12:43] <darksydephil> those 3 mice were pretty cute though 
+
+[12:45] <darksydephil> well doesn't look like anyboyd is really joining the stream, oh well, guess we'll start 
+[12:46] <darksydephil> i wish i could turn it off for prestream 
+[12:46] <darksydephil> well i guess i can, hold on lol 
+
+-#DARKSYDEPHIL 20161219-01 FFXV 16TH.LOG 
+
+[11:48] <darksydephil> hello 
+
+[11:48] <darksydephil> setting up now. feeling a bit better today than i have recently 
+[11:50] <darksydephil> yeah they worked alright, cleared out my colon completely 
+
+[11:53] <darksydephil> they're claiming they made it more competitive, which is hilarious becuase they spent 
+
+
+
+
+
+
+the greater part of 2016 saying there was nothing wrong with the game, but now they're changing it lol 
+
+[11:54] <darksydephil> fuck that game, i used to be heavily into the FGC but now i dont let myself get fooled 
+
+anymore 
+
+[11:54] <darksydephil> im not going to waste more time and money on a poorly developed game 
+[11:54] <darksydephil> oh wow, just read that news blue_blur64 congrats! 
+
+[11:55] <darksydephil> ok stream going live momentarily 
+[11:57] <darksydephil> thanks N0 H3R0 ! 
+
+[11:57] <darksydephil> HOPEFULLY we’ll get back on track today 
+[12:01] <darksydephil> ok so the stream is working? looks/sounds good? 
+
+[12:02] <darksydephil> ok ill tweet that we’re live 
+[12:02] <darksydephil> Popsicolo , is that how it works now? 
+
+[12:02] <darksydephil> i didnt even know you could do that lol 
+[12:02] <darksydephil> ok im looking it up 
+
+[12:03] <darksydephil> theres a base badge for all, then a 3 month, 6 month, 1 year and 2 year 
+
+[12:03] <darksydephil> thats pretty cool 
+
+[12:03] <darksydephil> id say give it a go Popsicolo 
+
+[12:04] <darksydephil> as for ideas, theonly thing i can think of is a crown 
+
+[12:04] <darksydephil> no idea otherwise 
+
+[12:06] <darksydephil> ok i just tweeted that we’re live 
+
+[12:07] <darksydephil> so if the nintendo switch rumors are true, it'll be just about 60% as powerful as the ps4 
+and xbox one, lol. what a surprise 
+
+[12:08] <darksydephil> it may also run far worse when not docked be they want it to have a long battery life, so 
+games will run like shit unless you're at home lol 
+[12:08] <darksydephil> what a great idea 
+
+[12:09] <darksydephil> they could not make a shitty portable systme, i guess? 
+
+[12:09] <darksydephil> i mean, just saying, if this info is true, it's once again a kid's toy 
+[12:09] <darksydephil> that's why i didnt get hyped at all for it with tha tfirst trailer. 
+
+[12:17] <darksydephil> i cant believe people would be SO gullible as to give capcom even more money for a 
+season 2 lol 
+
+[12:17] <darksydephil> its the previous model i believe theycallmejimbob 
+
+[12:17] <darksydephil> if you play the living fuck out of the game you can get new characters for free 
+[12:17] <darksydephil> everyone else has to pay 
+
+[12:18] <darksydephil> Akuma should have been in the game at launch, why the flaming fuck would anybody 
+pay for him now? so damned gullible lol 
+
+[12:19] <darksydephil> far less than any numbered SF before kawinskey 
+
+[12:19] <darksydephil> the difference is, now its "hype" because of live streaming coverage so you think that it's 
+good when it isn’t 
+
+[12:19] <darksydephil> hilarious that sales wise, SFV has done terribly, not even close to 1. their sales goals and 
+2. SFIV sales 
+
+[12:20] <darksydephil> yet "its the most watched SF in history!" 
+
+[12:20] <darksydephil> yes, because people are stupid. 
+
+[12:20] <darksydephil> you can no longer say that because people WATCH something, it's good, just look at 
+PewDiePie. you've now proven against that fact 
+
+[12:21] <darksydephil> in fact i’d say it's quite the opposite these days, the biggest audiences are the dumbest 
+peopel flocking to whats popular because it's popular, not because it's good 
+[12:21] <darksydephil> hearthstone lol 
+
+[12:22] <darksydephil> that game is such ass. it's completely RNG 
+
+[12:22] <darksydephil> there isn't any skill involved besides building the best deck, then its all luck 
+
+[12:24] <darksydephil> ok prestream time 
+
+[15:05] <darksydephil> hey aceshigh 
+
+[15:05] <darksydephil> you stupid gullible dumb fuck 
+
+[15:05] <darksydephil> say goodnight 
+
+
+
+[15:12] <darksydephil> its dumb because its a waste of fucking time, artifical wall to let you do stuff you're far 
+above level to do 
+
+[15:12] <darksydephil> awful outdated game design 
+
+[15:51] <darksydephil> Christmas isn't in 4 days for anyone on planet earth lol 
+
+[15:52] <darksydephil> the czech republich isn't 2 days ahead of anywhere, thats not how time zones work lol 
+[15:59] <darksydephil> it doesn’t matter when you celebrate it, Christmas is actually on dec 25th and always has 
+been 
+
+[15:59] <darksydephil> lol 
+
+-#DARKSYDEPHIL 20161220-01 WALKING DEAD S3 1ST.LOG 
+
+[11:50] <darksydephil> hello folks 
+
+[11:50] <darksydephil> setting up now, actually just downloading ep2 since it's a separate download that wasn't 
+even up last night when i got ep 1 
+
+[11:58] <darksydephil> ok episode finished downloading, so ill get the stream up and running now 
+
+[12:01] <darksydephil> getting the stream going righ tnow 
+
+[12:01] <darksydephil> remember i have to restart it be of hte damn obs issues 
+
+[12:02] <darksydephil> OBS Studio still has the recording error every day when i boot it up and start streaming, 
+
+and it still crashes every day when i close it. it's a very wonky POS lol 
+
+[12:03] <darksydephil> uuugh wtf 
+
+[12:03] <darksydephil> now its giving me errors.... 
+
+[12:03] <darksydephil> sigh 
+
+[12:04] <darksydephil> according to my computer it was running 3 times lol 
+[12:04] <darksydephil> ive said 20 times over the last day im not playing any more SFV 
+[12:04] <darksydephil> dunno what else i need to do to hammer it into peopels heads 
+[12:04] <darksydephil> twitter, prestreams and the like 
+
+[12:04] <darksydephil> the game is a piece of shit and will always be a piece of shit and im done wasting time 
+on it 
+
+[12:05] <darksydephil> season 2 will only suck more money out of peopels pockets that capcom doesn't deserve 
+[12:05] <darksydephil> and that's their entire goal, but poeple are too fing gullible 
+[12:05] <darksydephil> stop playing shit games, ignore the hype from idiots, thanks. 
+
+[12:06] <darksydephil> ok stream should be live now 
+
+[12:07] <darksydephil> so we’re going to re-build my previous TWD playthroughs in the game here 
+[12:07] <darksydephil> a viewer actually went back and drew up a listing of ALL of my previous choices in 
+TWD 1 and 2 for me to import here today, pretty awesome 
+[12:08] <darksydephil> so we’ll do that live before we start 
+[12:08] <darksydephil> that was you RickGrimesFanl23 ? 
+
+[12:08] <darksydephil> thanks very much! 
+
+[12:08] <darksydephil> gonna be awesome 
+
+[12:09] <darksydephil> ok so stream is working fine? ill tweet that we're live if so 
+[12:14] <darksydephil> i hope we get to murder more dogs in this season! kappa 
+[12:14] <darksydephil> oops 
+[12:14] <darksydephil> Kappa 
+[12:14] <darksydephil> lolol 
+
+[12:19] <darksydephil> dark maggot is still around, i see him liking stuff on twitter from time to time, but 
+considering i couldn’t use artwork for over a year, not surprised he hasn’t made his way back to doing fanart 
+[12:19] <darksydephil> LOL people really like the dspGlitch emote eh? 
+
+[12:21] <darksydephil> good to see everyone here and excited today, makes me feel energized for the stream! 
+[12:54] <darksydephil> just turned up the volume 
+
+-#DARKSYDEPHIL 20161221-01 FFXV 17TH.LOG 
+
+[11:28] <darksydephil> testing 
+[11:29] <darksydephil> it did now lol 
+
+
+
+
+
+[11:29] <darksydephil> got a ton of couldn't connect to chat errors, finally worked 
+[11:33] <darksydephil> email: darksydephil@hotmail.com 
+
+[11:38] <darksydephil> depends, thats my personal email so i cant guarantee a response 
+[11:38] <darksydephil> if theres a forum issue, theres not much i can do. im not the webmaster 
+[11:38] <darksydephil> why, what is the issue? 
+
+[11:39] <darksydephil> hey 
+
+[11:40] <darksydephil> gotta use the restroom, brb then ill get the stream set up 
+
+[11:54] <darksydephil> ok back 
+
+[11:54] <darksydephil> seems a lot happened lol 
+
+[11:54] <darksydephil> thanks SD Arch Angel 
+
+[11:54] <darksydephil> ok setting up now, should be live soon 
+
+[11:54] <darksydephil> oh, they've added a twitter feed right on the twitch page now lol 
+[11:54] <darksydephil> thats....kind of unnecessary but okay 
+[11:56] <darksydephil> yeah it installed yesterday, no idea what it does though 
+[11:57] <darksydephil> theres a carnival? 
+
+[11:58] <darksydephil> so im starting to see what the deal is with OBS being so wonky 
+
+[11:58] <darksydephil> it doesn’t close, ever, it crashes, so windows always thinks theres multiple instances open 
+lol 
+
+[11:59] <darksydephil> im beginning to wonder if thats where all the trouble started weeks ago with teh audio 
+issues 
+
+[11:59] <darksydephil> at any rate, its working now 
+[11:59] <darksydephil> so stream should be live if it isnt yet 
+[12:00] <darksydephil> ok cool 
+
+[12:00] <darksydephil> let me refresh my dashboard here 
+
+[12:02] <darksydephil> after loading 4 times, finally got the page loaded lol 
+
+[12:02] <darksydephil> yeah yesterday was great viewership wise 
+
+[12:02] <darksydephil> except nobody subbed and very few cheers, so it ended up being a dud streaming day lol 
+[12:03] <darksydephil> i think with new releases and such it’ll get bigger 
+[12:03] <darksydephil> right now its year end and very slow 
+
+[12:04] <darksydephil> id actually like to replay Dark Souls I. but probably not gonna happen soon as i have 
+ALL of the year end series to work on 
+
+[12:04] <darksydephil> i dont even remember the last stream much, the gameplay yes, stream chat not really 
+
+[12:05] <darksydephil> im talking about the last FFXV stream bethe2670 
+
+[12:06] <darksydephil> ok ill tweet that we’re live 
+
+[12:07] <darksydephil> there, back to the dashboard then lol 
+
+[12:08] <darksydephil> oh really? i was focused on the game 
+
+[12:08] <darksydephil> didnt see any of that 
+
+[12:08] <darksydephil> sadly thats twitch chat for you. a lot of damned nonsense 
+[12:09] <darksydephil> great AlexanderRossi 
+
+[12:09] <darksydephil> liked it far more than any of the recent telltale games 
+[12:09] <darksydephil> finally back to their roots 
+[12:09] <darksydephil> working on the DR4 review tomorrow night 
+[12:10] <darksydephil> ive got so much to do right now 
+
+[12:10] <darksydephil> ongoing playthroughs, this weekend's WWE stream stuff i have to setup every night be 
+you can only download 20 things a day, the Friday the 13th beta tonight, the DR4 review tomorrow, plus setting 
+up the patron MP event for next week and THEN the year end series 
+[12:10] <darksydephil> good god 
+[12:13] <darksydephil> thanks charizard! 
+
+[12:13] <darksydephil> who apparently isn't in the chat lol 
+[12:13] <darksydephil> oh hello 
+[12:13] <darksydephil> Charizard545 
+[12:13] <darksydephil> there we go 
+
+
+
+[12:13] <darksydephil> it woudln't let me autofill your name for a sec 
+[12:13] <darksydephil> damn really! only off by 1, darn close 
+[12:14] <darksydephil> i dunno man, we’ll see 
+
+[12:14] <darksydephil> RE7 will be the priority in late J anuary for sure 
+
+[12:15] <darksydephil> well the good thing is, it appears you can drop in/out of the VR in RE7 
+[12:15] <darksydephil> which is GREAT, you don’t have to commit to a full playthrough with it 
+[12:15] <darksydephil> so we’ll see what happens i guess lol 
+
+[12:16] <darksydephil> im up to 116 subscribers! pretty sweet that it keeps growing 
+[12:17] <darksydephil> yeah, who knows 
+
+[12:17] <darksydephil> id hope that people are going to sub after the holiday etc. a lot of people told me they 
+
+were going to sub when their next twitch prime thing came around 
+
+[12:18] <darksydephil> sweet thanks lemon 
+
+[12:19] <darksydephil> im starting prestream right now 
+
+[12:19] <darksydephil> this very moment lol 
+
+[13:22] <darksydephil> the camera is worse on default lol 
+
+[13:22] <darksydephil> it becomes the dark souls/bloodborne camera then 
+
+[15:26] <darksydephil> yeah mic went out 
+
+[15:26] <darksydephil> and this program doesn’t fix it.... 
+
+[15:26] <darksydephil> not like old obs lol 
+[15:26] <darksydephil> stupid program 
+[15:27] <darksydephil> gotta restart the stream quickly 
+[15:27] <darksydephil> stream should be back momentarily 
+
+-#DARKSYDEPHIL 20161221-02 FFXV 18TH.LOG 
+
+[20:00] <darksydephil> hello 
+[20:00] <darksydephil> anybody here? 
+
+[20:05] <darksydephil> id rather do FFXV since i have to finish this dungeon in order to boot WWE and get 
+
+more things for Saturday's marathon 
+
+[20:05] <darksydephil> well not marathon, sims i meant 
+
+[20:05] <darksydephil> nope 
+
+[20:06] <darksydephil> thats why im stuck in there, i knew htis would happen when i started it lol 
+[20:07] <darksydephil> yup 
+
+[22:01] <darksydephil> hey MarcusDoesGaming if you want to avoid being banned here as well as twitter, you 
+should probably avoid saying incredibly stupid shit liek that 
+[22:01] <darksydephil> wise up or say goodbye, thanks 
+[22:02] <darksydephil> ok goodnight folks, see you tomorrow 
+
+-#DARKSYDEPHIL 20161222-01 FFXV 19TH.LOG 
+
+[11:53] <darksydephil> hello 
+
+[11:53] <darksydephil> anybody here? 
+
+[11:54] <darksydephil> hey 
+
+[11:54] <darksydephil> setting up for the stream but nobody seems to have any idea about this holiday die so... 
+[11:59] <darksydephil> oh im reading an article 
+
+[11:59] <darksydephil> the holiday pack is only if you bought hte season pass lol 
+[11:59] <darksydephil> no idea why people thought it was for everybody but its not 
+[12:00] <darksydephil> sooo...fuck that then i guess 
+[12:00] <darksydephil> i dunno where the carnival is 
+[12:01] <darksydephil> lol yeah 
+
+[12:02] <darksydephil> i just found the free pack and it says the carnival is in January lol 
+[12:02] <darksydephil> people were pretty misinformed about this 
+[12:03] <darksydephil> ok got the free holiday pack 
+
+[12:05] <darksydephil> always nice to get a ticket for something that doesn’t exist yet 
+
+
+
+
+
+[12:05] <darksydephil> whats teh point lol 
+
+[12:05] <darksydephil> well last night i got hte awesome item from the puzzle dungeon 
+
+[12:06] <darksydephil> SO im going to try a few fights, do a couple more post-game dungeons to try and max 
+
+my levels, then take on the lvl 99 hunts and adamantoise 
+
+[12:06] <darksydephil> once thats doe, thats it, game over, ive done everything 
+
+[12:07] <darksydephil> no idea, someitmes stuff is quick, sometimes not so quick, we'll see 
+
+[12:11] <darksydephil> finally just found a workaround for my OBS crashing issues, now i wont have to restart 
+
+the streams anymore at the start 
+
+[12:11] <darksydephil> throat is shitty 
+
+[12:11] <darksydephil> no other way to say it lol 
+
+[12:12] <darksydephil> not really sick, just lingering symptoms 
+
+[12:15] <darksydephil> stream working for everyone? 
+
+[12:15] <darksydephil> ok ill tweet that we’re live 
+
+-#DARKSYDEPHIL 20161223-01 POKEMON MOON 5TH.LOG 
+
+[11:48] <darksydephil> hello all 
+
+[11:48] <darksydephil> still downloading stuff in wwe here but almost done 
+[11:49] <darksydephil> ok skull 
+
+[11:49] <darksydephil> i have about 60 emails in my inbox i havent read yet including bills and important stuff 
+so...yeah 
+
+[11:53] <darksydephil> wow im going to have a different arena for EACH match tomorrow 
+[11:53] <darksydephil> pretty sweet, theres more created stuff on wwe now than ever 
+[11:57] <darksydephil> ok just reached my download quota for today lol 
+[11:57] <darksydephil> its time to set up the stream 
+[11:59] <darksydephil> lol well twitch is messed up 
+
+[11:59] <darksydephil> it wont load my revenue tab or much of anything else 
+[11:59] <darksydephil> good thing i have my dashboards open already 
+[12:03] <darksydephil> are you kidding? 
+
+[12:03] <darksydephil> DR4 is an obviously rushed game with a terrible story and not much to do besides chop 
+the shit out of stuff, its mindless fun but its still mindless and completely forgettable 
+
+[12:04] <darksydephil> the last guardian at least had some nice execution attempts and was somewhat unique for 
+
+the time, overall you'll remember it far better as a gaming experience 
+
+[12:04] <darksydephil> both games are insanely overpriced but DR4 is a huge ripoff IMO 
+
+[12:04] <darksydephil> just because i liked a game for being chill fun doesn't mean its a good game lol 
+
+[12:04] <darksydephil> thats like saying Stardew Valley is the best game ever made be its easy and chill 
+
+[12:05] <darksydephil> thats not how you objectively review a game 
+
+[12:05] <darksydephil> and thats whats missing from most mainstream reviewers, they dont get the difference 
+[12:05] <darksydephil> Just updated the title of the stream 
+
+[12:06] <darksydephil> SaintAnti you can't objectively review a game based on only on enjoyment, its 
+impossible as differen people have different tastes, but you can objectively rate games on facts 
+[12:06] <darksydephil> enough of that 
+
+[12:07] <darksydephil> everyone who bothers me with SFV talk gets a timeout today 
+[12:07] <darksydephil> at this point, it's intentional trolling 
+
+[12:07] <darksydephil> so everyone can hear the 3ds and see the stream looks good? 
+
+[12:08] <darksydephil> SaintAnti did you actually watch the reviews or just hear the scores? sounds like the 
+
+latter, my reviews are very detailed and explain the different 
+
+[12:08] <darksydephil> differnce 
+
+[12:09] <darksydephil> where are my headphones lol 
+
+[12:09] <darksydephil> i just realized i need them today 
+
+[12:11] <darksydephil> ok gonna tweet that we’re live 
+
+[12:12] <darksydephil> simpletons love short reviews, not much else to say there, if you can’t take competent 
+thought you just want to be fed a number score 
+
+
+
+
+[12:13] <darksydephil> thansk derich 
+
+[12:13] <darksydephil> i barely remember wher ei am 
+
+[12:13] <darksydephil> actually, i dont remember where i am lol 
+
+[12:14] <darksydephil> oh yeah im in team skulls fortress thast right 
+
+[12:14] <darksydephil> i have to investigate the entire building for no fucking reason... 
+
+[12:14] <darksydephil> sigh 
+
+[12:16] <darksydephil> LOL i should start a new slogan 
+
+[12:16] <darksydephil> help me with tips, and help me with bits 
+
+[12:16] <darksydephil> no major spoilers allowed but tips and bits welcome 
+
+[12:18] <darksydephil> yeha i bought a new UPS but sadly its not gonna be here in time for me to play the 
+Friday the 13th beta 
+
+[12:18] <darksydephil> quickest it could arrive was late next week 
+[12:19] <darksydephil> yeah, i dont need a psu 
+
+[12:19] <darksydephil> my psu isn’t what was beeping loudly when i tried to capture and play friday the 13th lol 
+
+[12:19] <darksydephil> itw as my UPS 
+
+[12:19] <darksydephil> and it was turning off my PC 
+
+[12:21] <darksydephil> because the computer is plugged into it. and if it malfunctions and shuts off, so does the 
+pc? 
+
+[12:21] <darksydephil> pretty simple 
+[12:22] <darksydephil> ill give this guy one more chance 
+[12:23] <darksydephil> if he comes in here with sfv again he's toast 
+[12:23] <darksydephil> some people just dont learn, immature kids 
+
+-#DARKSYDEPHIL 20161224-01 WWE FANTASY SIMS 2016.LOG 
+
+[11:45] <darksydephil> ok 
+
+[11:45] <darksydephil> crisis averted lol 
+
+[11:49] <darksydephil> brb getting drinks and then final setup! 
+
+[11:49] <darksydephil> tehcnically i have enough but want to get a few extras just in case something doesn't 
+work out 
+
+[12:08] <darksydephil> ok back 
+
+[12:08] <darksydephil> gonna quickly get some last minute stuff and then get the steram going 
+[12:08] <darksydephil> i hope everything works lol 
+
+[12:09] <darksydephil> yeah thats kind of the point of tomorrow, most of hte stream will be me talking with 
+stream chatters 
+
+[12:13] <darksydephil> ugh its not letting me use custom arenas...hold on 
+
+[12:13] <darksydephil> stupid fing game, they changed it AGAIN this year apparently 
+
+[12:18] <darksydephil> i seriously cant find how to change the fucking arena.... 
+
+[12:18] <darksydephil> wtf did they do with this game this year, sigh 
+
+[12:20] <darksydephil> yeah this makes no sense at all 
+
+[12:21] <darksydephil> so you can download and create arenas 
+
+[12:21] <darksydephil> but i dont see ANYWHERE you can actually select them 
+
+[12:21] <darksydephil> it only shows the pre-made WWE arenas 
+
+[12:21] <darksydephil> this is fing stupid, i can select match type, title, but not arena 
+
+[12:22] <darksydephil> no kidding, but they don't show up lol 
+
+[12:23] <darksydephil> ive got 6 custom Christmas arenas here 
+
+[12:23] <darksydephil> and i can’t select them anywhere 
+
+[12:23] <darksydephil> no teven in universe, in universe i can’t figure out how to even change a PPV 
+[12:23] <darksydephil> this thing is a fucking mess 
+[12:25] <darksydephil> how the hell do you create a show? 
+
+[12:25] <darksydephil> the universe mode only has existing shows and i see no option to change anything about 
+hte show besides the matches 
+[12:26] <darksydephil> holy crap 
+
+
+
+
+[12:26] <darksydephil> ok i see it 
+[12:26] <darksydephil> wow.... 
+
+[12:26] <darksydephil> they really messed htis game up 
+[12:34] <darksydephil> ok almost got this figured out 
+[12:34] <darksydephil> jesus its complicated now 
+
+[12:35] <darksydephil> ok show created, once i figure out how to get this into universe we’re good to go 
+[12:37] <darksydephil> ok simulating until december.... 
+
+[12:37] <darksydephil> then i believe i change the show from here... i think lol 
+[12:43] <darksydephil> i still dont know if this is fucking working lol 
+[12:43] <darksydephil> if i do, the entire thing gets fucked up 
+
+[12:43] <darksydephil> because you cant UNDO stuff in universe mode one its simined lol 
+[12:43] <darksydephil> this game sucks 
+
+[12:44] <darksydephil> you can't even delete the stupid promos they put into the ppvs 
+
+[12:44] <darksydephil> which are completely pointless if you're simming a ppv, they're for developing your 
+
+damn created character not sims 
+
+[12:44] <darksydephil> these guys are idiots 
+
+[12:47] <darksydephil> ive been sitting here for a half hour and still have no idea if this is going to work lol 
+[12:47] <darksydephil> thats how bad this game is now 
+[12:47] <darksydephil> such a mess 
+
+[12:48] <darksydephil> im pretty sure im stuck with only 1 arena the entire hting too 
+
+[12:48] <darksydephil> no way to change them at all 
+
+[12:50] <darksydephil> ok i mjust going to do 1 arena, i give up on the rest 
+
+[12:50] <darksydephil> setting up all the matches right now 
+
+[12:52] <darksydephil> seriously, how about the two of you start acting your age 
+
+[12:52] <darksydephil> i dont need this shit, so get over it or leave 
+
+[12:55] <darksydephil> im almost ready to go 
+
+[12:55] <darksydephil> gino, saying fuck off repeatedly does nothing and doesn’t befit a mods behavior, just an 
+fyi 
+
+[12:58] <darksydephil> ok ive done as much as i can so far 
+
+[12:58] <darksydephil> gonna get the stream started now 
+
+[13:05] <darksydephil> ok we should be good 
+
+[13:05] <darksydephil> got the recording bug fixed now 
+
+[13:06] <darksydephil> i got all the art fromt he forums and a couple off twitter 
+
+[13:06] <darksydephil> but people are sending them everywhere and its kind of confusing lol 
+
+[13:09] <darksydephil> ok stream is working? sound and all? 
+
+[13:09] <darksydephil> ok cool 
+
+[13:09] <darksydephil> ill tweet that we're live then 
+
+[13:25] <darksydephil> ok i started the show but have to skip the ridiculously dumb promo first lol 
+[13:25] <darksydephil> giv erne a sec 
+[13:26] <darksydephil> its loading right now 
+[13:26] <darksydephil> so be patient lol 
+
+[13:26] <darksydephil> i think im gonna have to do a lot of stuff on the fly for this 
+[13:27] <darksydephil> generic intro lol 
+
+[13:27] <darksydephil> ok ill mute while i skip the stupid promo stuff 
+[13:27] <darksydephil> first match is loading! 
+
+[13:28] <darksydephil> btw i put the wrong year into the game, i said its 2017 lolol 
+[13:28] <darksydephil> so some title cards may be wrong 
+[13:28] <darksydephil> oh well 
+
+[13:28] <darksydephil> ok 1st match loading but almost done! 
+
+[13:29] <darksydephil> or so it SAID it was almost done lol 
+[13:29] <darksydephil> taking forever 
+[13:29] <darksydephil> still loading... 
+
+
+
+[13:52] <darksydephil> ok im setting up the hell in the cell match now, quick break 
+[13:53] <darksydephil> LOL i just got a trophy 
+[13:53] <darksydephil> no idea for what hahahahah 
+[13:53] <darksydephil> ok next match is loading 
+
+[13:54] <darksydephil> considering it takes so damn long to load these, the ads wont be an issue 
+[13:54] <darksydephil> the trophy had the AJ styles logo LOL 
+[13:54] <darksydephil> wtf 
+
+[13:55] <darksydephil> no worries, the match is still loading 
+
+[13:55] <darksydephil> and probably will be fro many more minutes lol 
+
+[13:55] <darksydephil> you guys should like this match 
+
+[13:55] <darksydephil> pretty cool entrants lol 
+
+[13:55] <darksydephil> this one isn't holiday themed 
+
+[13:56] <darksydephil> every match has a theme, so yes 
+
+[13:56] <darksydephil> Marie missed the amazing opening match lol 
+
+[14:21] <darksydephil> ok loading hte next match lol 
+
+[14:22] <darksydephil> only 2 out of 6 total matches down! 4 more to go lol 
+
+[14:26] <darksydephil> ok everyone ready? 
+
+[14:26] <darksydephil> match is set to go! 
+
+[14:43] <darksydephil> oh boy, next match is 6 women so its going to take like 10+ minutes to load lol 
+[15:11] <darksydephil> ok guys, im going to do something special for the final 2 matches 
+[15:11] <darksydephil> new ring! 
+
+[15:11] <darksydephil> so give me a few extra minutes to set it up 
+
+[15:12] <darksydephil> hope you guys are liking hte sims! So far they've been awesome IMO 
+
+[15:17] <darksydephil> ok setting up the final 2 matches now, ill need a bit of extra time be the rumble takes a 
+
+while to set up 
+
+[15:17] <darksydephil> but almost done! 
+
+[15:19] <darksydephil> omfg these guys for the rumble....holy shit 
+[15:21] <darksydephil> ok about to be done, giv erne a sec 
+[15:22] <darksydephil> just need to load the match now 
+[15:40] <darksydephil> i think im gonna make myself a tea lol 
+[15:40] <darksydephil> then we'll do the rumble 
+[16:39] <darksydephil> Phil needs to rest his voice, lol 
+
+[16:39] <darksydephil> i gave it my all today so i hope i have one for tomorrow 
+[16:39] <darksydephil> hope you all liked it, i actually LOVED doing that stream 
+[16:39] <darksydephil> that was tremendously fun 
+
+[16:41] <darksydephil> you as well! and of course to everyone else! Thanks very much to those who subbed nad 
+cheered! 
+
+
+-#DARKSYDEPHIL 20161225-01 CHRISTMAS & CHILL.LOG 
+
+[12:03] <darksydephil> test 
+[12:03] <darksydephil> hello all 
+
+[12:03] <darksydephil> hope everyone is having a good holiday 
+
+[12:03] <darksydephil> going to start setting up here 
+
+[12:05] <darksydephil> sigh someone made fanart with my O face 
+
+[12:05] <darksydephil> not exactly sure thats what people want to see today 
+
+[12:08] <darksydephil> oh boy some of this fanart lol 
+
+[12:09] <darksydephil> OK so im archiving today's stream and going to make it a "highlight" so that it remains 
+
+on my page permanently to view 
+
+[12:10] <darksydephil> HOPEFULLY this works 
+
+[12:10] <darksydephil> be theres no reason to. its more of a twitch thing 
+
+[12:12] <darksydephil> did everyone enjoy the holiday sims? i assume everyone has at least seen them on YT? 
+[12:13] <darksydephil> I was pleased with how every single match went 
+
+
+
+
+[12:13] <darksydephil> sucked that my voice went out but whatever lol 
+[12:15] <darksydephil> im setting up now FYI 
+
+[12:16] <darksydephil> im trying to get some music for the stream right now lol 
+
+[12:18] <darksydephil> wow some great music thanks to machinima, who gives me access to an archive of tons 
+of stock musci to use. nice 
+
+[12:21] <darksydephil> ok i got three sweet holiday songs 
+[12:21] <darksydephil> who wants some Christmas dubstep? 
+
+[12:23] <darksydephil> damn, i cant figure out how to get the musci to work 
+
+[12:23] <darksydephil> sigh 
+
+[12:23] <darksydephil> oh wait, kyes i do 
+
+[12:23] <darksydephil> hold up i think i got it 
+
+[12:27] <darksydephil> ok i think i have this working 
+
+[12:27] <darksydephil> brb gonna use the restroom, then get the stream started 
+[12:36] <darksydephil> wtf 
+
+[12:36] <darksydephil> just turned on my laptop, immediatley a pop up ad for porn!? 
+
+[12:36] <darksydephil> the hell did that come from, the only browser window open is twitch 
+
+[12:37] <darksydephil> not a good sign lol 
+
+[12:37] <darksydephil> anyway stream going live shortly 
+
+[12:40] <darksydephil> oops hold on 
+
+[12:40] <darksydephil> gotta restart he stream 
+
+[12:40] <darksydephil> stupid twitch didn’t have it saved to archived even though i set it up to do so 
+yesterday...sigh 
+
+[12:41] <darksydephil> OK, its now supposed to auto archive this stream 
+[12:41] <darksydephil> i hope it does be im not recording t lol 
+[12:42] <darksydephil> can you hear music? 
+
+[12:42] <darksydephil> barely? 
+
+[12:42] <darksydephil> i can make it louder then 
+[12:42] <darksydephil> but it sounds LOUD on my end 
+[12:42] <darksydephil> oh ok, so it sounds good now? 
+
+[12:42] <darksydephil> this is twitch-only! 
+
+[12:45] <darksydephil> just made it louder 
+[12:45] <darksydephil> it was far too low lol 
+
+[12:45] <darksydephil> ok so stream working for all? ill tweet that we’re live then 
+[12:45] <darksydephil> its not too loud at all lol 
+
+[12:45] <darksydephil> i could barely hear it on my laptop with maxed volume before 
+[12:46] <darksydephil> im gonna show you all what i got for Christmas on stream 
+[12:46] <darksydephil> and you can tell me what you got! 
+
+[12:46] <darksydephil> it should be fun 
+
+[12:48] <darksydephil> this music is actually pretty great, very chill 
+
+[12:49] <darksydephil> this is all stock music provided for free be im a machinima partner, pretty sweet 
+
+[12:52] <darksydephil> sooo i hope twitch actually archives this, ive set it up to do so 
+
+[12:52] <darksydephil> but never actually used that feature so..lol 
+
+[12:53] <darksydephil> yeah im going to make a highlight of it so it stays forever 
+
+[12:58] <darksydephil> starting in 2 minutes, relax 
+
+[12:58] <darksydephil> i really dig this music lol 
+
+[12:59] <darksydephil> spammers will not be tolerated 
+
+[12:59] <darksydephil> just a warning 
+
+[12:59] <darksydephil> we’re here to have fun 
+
+[12:59] <darksydephil> and i need to be able to actually read interactive stuf 
+[12:59] <darksydephil> merry Christmas to all! 
+
+[12:59] <darksydephil> its starting in 1 minute 
+
+[13:54] <darksydephil> if you're going to just sit here and constantly complain, you can leave 
+
+
+
+[13:54] <darksydephil> geez, its Christmas 
+
+[13:55] <darksydephil> some peopel just love to be negative miserable jerks every day i guess 
+[13:55] <darksydephil> ok brb 
+
+[14:01] <darksydephil> ok im coming back in a sec all 
+[14:01] <darksydephil> using a cough drop lol 
+[14:50] <darksydephil> OH YEAH 
+
+[14:50] <darksydephil> the house walkthrough! I almost forgot 
+[14:50] <darksydephil> let me get that set up now lolol 
+[14:50] <darksydephil> oops 
+[14:55] <darksydephil> whoops 
+
+[14:55] <darksydephil> ok well alt least i know it works lolol 
+[14:55] <darksydephil> sorry abou tthat 
+[14:55] <darksydephil> hahahah 
+[14:55] <darksydephil> audio jumpscare 
+
+[14:56] <darksydephil> i had to see if it worked and it does, the house wlakthrough 
+
+[15:07] <darksydephil> that was like pulling teeth lol 
+
+[15:07] <darksydephil> stupid OBS 
+
+[15:09] <darksydephil> our other hamster passed away :( 
+
+[15:09] <darksydephil> she was named Cinnamon 
+
+[15:10] <darksydephil> no new hamster for now at least, it wouldn't get along with Raisin, they're very territorial 
+
+[15:11] <darksydephil> yeah sadly mice/rats/hamsters/gerbils etc dont live long 
+
+[15:13] <darksydephil> spoons for adding measured incredients. knives chop up the soap base etc 
+
+[15:14] <darksydephil> Cinnamon lived over 2 years! And Raisin is currently 2.5 years old 
+
+[15:14] <darksydephil> thats my DVD collection lol 
+
+[15:15] <darksydephil> well, now its ours but they started as mine 
+
+[15:15] <darksydephil> no games in the living room 
+
+[15:15] <darksydephil> its all in our offices 
+
+[15:18] <darksydephil> nothing for sale right now, but maybe in 2017 ill start again 
+[15:58] <darksydephil> OK so stream is saved? ill make it a highlight now then 
+[15:59] <darksydephil> ok let me see here 
+
+[16:01] <darksydephil> ok working on making this a highlight righ tnow 
+[16:02] <darksydephil> goddamn my voice lol 
+[16:02] <darksydephil> sounds just as bad as it was yesterday 
+[16:02] <darksydephil> fing thing needs to get better 
+
+[16:08] <darksydephil> i might do the week in preview later tonight but thats it 
+
+[16:08] <darksydephil> resume normal stuff tomorrow though, not sure what to play? pokemon, final hunts in 
+
+ffxv or do something new? hmm 
+
+[16:08] <darksydephil> maybe ill do a poll, we’ll see 
+
+[16:09] <darksydephil> damn my voice sounded great at the beginning 
+
+[16:09] <darksydephil> lol 
+
+[16:11] <darksydephil> yeah hold on 
+
+[16:12] <darksydephil> apparenlty theres a default setting tha tonly subs can see it 
+
+[16:12] <darksydephil> im going to fix that now 
+
+[16:12] <darksydephil> bu ti have to figure out how lol 
+
+[16:13] <darksydephil> im looking for the setting now but dont see it, darn it 
+
+[16:14] <darksydephil> still ooking 
+
+[16:14] <darksydephil> looking 
+
+[16:14] <darksydephil> found it! 
+
+[16:15] <darksydephil> magman, no, still plenty of time, but post up asap on the thread! 
+
+[16:15] <darksydephil> can someone who isn’t a sub try to watch this: 
+https://www.twitch.tv/darksydephil/v/109837206 
+[16:15] <darksydephil> let me know if it works 
+
+
+
+[16:16] <darksydephil> ok cool thanks 
+
+[16:17] <darksydephil> they hid it in partner settings 
+
+[16:17] <darksydephil> ok well thats it for now! Gotta use the restroom and then get ready for dinner, im 
+starving lol 
+
+[16:17] <darksydephil> ill post up on twitter and maybe the WIP tonight on what's coming this week! 
+
+-#DARKSYDEPHIL 20161226-01 ZELDA OOT 3DS 1ST.LOG 
+
+[11:58] <darksydephil> hello all 
+[11:58] <darksydephil> hmm 
+[11:58] <darksydephil> good idea 
+
+[11:58] <darksydephil> let me see...maybe i can do it quickly 
+[12:03] <darksydephil> ok i just made majoras mask public 
+[12:04] <darksydephil> now im setting up the stream lol 
+[12:07] <darksydephil> stop being so sour neonbornspartan9 lol 
+[12:09] <darksydephil> there was fanart??? 
+
+[12:09] <darksydephil> i didnt even check be it was a poll 
+[12:09] <darksydephil> well sorry abou tthat folks 
+[12:10] <darksydephil> ill have it for next time for sure 
+[12:10] <darksydephil> I should be live! i can see it here 
+
+[12:11] <darksydephil> yeah Derichloveslemur ill definitely have it ready for next time, sorry bout that 
+[12:11] <darksydephil> seriously didnt expect anyone to make fanart when it was a poll and the game was 
+uncertain lol 
+
+[12:11] <darksydephil> i forget that people are actually EXCITED to see my stuff sometimes lol 
+[12:11] <darksydephil> that depends alldaythreeam 
+
+[12:12] <darksydephil> i have Wednesday, friday and Sunday as free days this week 
+
+[12:12] <darksydephil> LemonPlaysGames well after i played twilight princess it became pretty clear that the 
+vast majority of modern zelda games ALL tie to OOT. so i have to play thi sgame to make sense of all 
+thereferences 
+
+[12:13] <darksydephil> yup my wolf amiibo is still right here 
+
+[12:14] <darksydephil> ok let me tweet that we’re live 
+
+[12:14] <darksydephil> i did play Syndicate, lol 
+
+[12:14] <darksydephil> i actually liked it a lot too 
+
+[12:18] <darksydephil> isn’t every zelda game a sequel to this? lol 
+
+[12:18] <darksydephil> well actually isn’t skyward sword supposed to be the first one 
+
+[12:18] <darksydephil> and then everything else is sequel 
+
+[12:19] <darksydephil> which is why the final villain of skyward sword is like the proto-ganondorf 
+[12:20] <darksydephil> breath of the wild takes place entirely inside a toilet while Link is taking a dump 
+between boss fights in the 3DO Zelda game 
+
+[12:21] <darksydephil> "you can do the duck walk! oops i pooted!" Behold, Breath of the Wild 
+
+[12:22] <darksydephil> i don’t have a timeline book, lol 
+
+[12:22] <darksydephil> brb gonna use the restroom, then prestream 
+
+[12:25] <darksydephil> I have link between worlds, still never went back and played it lol 
+
+[12:26] <darksydephil> yeah but not this year blue_blur64,2 zeldas are already go9nig to be ovekill 
+
+[12:26] <darksydephil> well im startin OOT now 
+
+[12:27] <darksydephil> but itll mainly be played in 2017 
+
+[12:27] <darksydephil> id love to do it, it plays just like LTTP and even has remixed music from it 
+[13:04] <darksydephil> oops 
+[13:04] <darksydephil> mislicked 
+
+[13:54] <darksydephil> um, mario run is free but you hav eto pay 10 bucks to get past level 3. nobody did lol 
+[14:54] <darksydephil> ok back! 
+
+[14:54] <darksydephil> give me a sec 
+
+[16:10] <darksydephil> whoa thanks Finalknightmare ! 
+
+
+
+
+-#DARKSYDEPHIL 20161227-01 PATREON MP EVENT 1ST.LOG 
+
+[11:58] <darksydephil> hello 
+
+[12:01] <darksydephil> im not really sick, any actual virus was defeated ages ago 
+[12:01] <darksydephil> the problem is lingering symptoms be of my post nasal drip 
+
+[12:01] <darksydephil> this happens every time i get a bad cold and the winter temperature aren't helping it 
+[12:01] <darksydephil> ok BRB, gonna use the restroom and then get stuff set up 
+[12:02] <darksydephil> FYI stream will be going live later than usual since i hae to set up the lobby first 
+[12:17] <darksydephil> ok about to set up the party and then the stream 
+[12:17] <darksydephil> first let me get the fanart going etc 
+
+[12:19] <darksydephil> one thing all, FYI today will be 720p resolution, since im doing 60fps gaming, i have to 
+do that to make the videos look good 
+
+[12:22] <darksydephil> well the fanart isn't fitting well be everybody submitted different aspect ratios lol 
+
+[12:22] <darksydephil> oh well 
+
+[12:31] <darksydephil> can everyone hear us? 
+
+[14:39] <darksydephil> ok setting up now 
+
+[14:40] <darksydephil> Pops i got you in all day THursday, hope thats cool 
+
+[14:41] <darksydephil> sweet 
+
+[15:04] <darksydephil> how is the stream? 
+
+[15:04] <darksydephil> sounds good, looks good? 
+
+-#DARKSYDEPHIL 20161228-01 FFXV 20TH.LOG 
+
+[11:40] <darksydephil> test 
+[11:44] <darksydephil> lol 
+
+[11:44] <darksydephil> reading the comments on my FFXV review, interesting mix 
+
+[11:44] <darksydephil> some people know how to disagree respectfully, others just show their amazing 
+
+immaturity 
+
+[11:45] <darksydephil> i also love the people that say the game was in development for 3 years, not 10, which is 
+blatantly factually incorrect lol 
+
+[11:52] <darksydephil> I would never play a game for 50 hours that I Felt was a 6 out of 10 lol 
+
+[11:52] <darksydephil> i dont get how its confusing when ive played FFXV more than any other game this year 
+
+besides maybe overwatch 
+
+[11:58] <darksydephil> I hope people show up for today's stream, since the weekend its been a VERY slow week 
+[11:59] <darksydephil> i dont understand youtubes related channels system at all anymor 
+[11:59] <darksydephil> why is it saying that reviewtechusa, the radbrad and digital foundry are similar to 
+KOgaming...lol 
+
+[11:59] <darksydephil> none of them review games 
+[12:00] <darksydephil> yup 
+
+[12:00] <darksydephil> still happens eery time a video si uploaded 
+
+[12:01] <darksydephil> thecowboyboyfromhell213 i just worked 4 hours last night to review ffxv. no, i haven’t 
+started the year end stuff yet 
+
+[12:03] <darksydephil> viewers are nice, but ultimately its about participation, i.e how many people sub and 
+cheer etc 
+
+[12:03] <darksydephil> its not like youtube here where ad revenue is what makes it profitable 
+
+[12:04] <darksydephil> thecowboyboyfromhell213 : twitter.com/theycalhnedsp is the answer to all of your 
+
+questions, its why i post up a schedule every night 
+
+[12:06] <darksydephil> ok lets get this stream started 
+
+[12:08] <darksydephil> oh my god 
+
+[12:08] <darksydephil> now i cant get obs to fucking work 
+[12:08] <darksydephil> .... 
+
+[12:10] <darksydephil> yeah i dunno what to do 
+
+[12:10] <darksydephil> its not stopping recording again and the old thing i used to do to get it to work wont 
+
+
+
+
+
+fucking work now 
+
+[12:10] <darksydephil> i hate this program 
+
+[12:11] <darksydephil> yeah i dunno what to do 
+
+[12:11] <darksydephil> gonna be fucking with this now, sigh 
+
+[12:16] <darksydephil> ok, i go tthe stream to work 
+
+[12:16] <darksydephil> but i have no idea if THIS fix will work moving forward or not 
+
+[12:16] <darksydephil> fingers crossed everyone lol 
+
+[12:22] <darksydephil> ok just tweeted that we’re live 
+
+[12:29] <darksydephil> the story in ffl3 was also shit 
+
+[12:29] <darksydephil> it seems that the stories in FF are now less of a focus 
+
+[12:30] <darksydephil> i have no idea how that happened but it seems to be true 
+
+[12:31] <darksydephil> this is why i cant wait to play ff4. the story is exceptionally good in that one 
+
+[12:33] <darksydephil> how are they unique? 
+
+[13:20] <darksydephil> you only pay mor emoney if you damaged the car or exceeded the mileage limitations on 
+a lease lol 
+
+[13:20] <darksydephil> neither of which we've done, we barely drive 
+
+[13:34] <darksydephil> ive been talkign to the chat all stream so far lol 
+
+[14:36] <darksydephil> i never found a demonwall lol 
+
+[14:36] <darksydephil> why do they cryptically hide the good shit 
+
+[14:42] <darksydephil> you want to wait for more loading to return to the car? lol 
+
+[16:16] <darksydephil> ManyPeregrine81 if i dont make money doing this, i can't KEEP doing this, logical 
+adults understand this 
+
+[16:16] <darksydephil> so yeah, it is about views and profit overall 
+[16:16] <darksydephil> wake up 
+[16:23] <darksydephil> enough of him 
+
+[16:27] <darksydephil> i hope he keeps making new accounts, its fun to keep banning that guy 
+[16:27] <darksydephil> lol 
+
+[16:32] <darksydephil> see you guys don’t understand, which is fine 
+
+[16:33] <darksydephil> if i went and got another job outside of YT/streaming, id have to significantly cut back 
+on what i put out here 
+
+[16:33] <darksydephil> and FYI, whatever i’d make at any entry level job would not cover the losses 
+[16:33] <darksydephil> so its like, go get another job and make less...it's counter productuve 
+[16:33] <darksydephil> productive 
+[16:33] <darksydephil> ive thought about this tons lol 
+
+[16:34] <darksydephil> nah a game over a year on hiatus is dead, plus i deleted it ages ago 
+[16:41] <darksydephil> i could never do security, i cant be on my feet all day long 
+
+-#DARKSYDEPHIL 20161229-01 PATREON MP EVENT 2ND.LOG 
+
+[11:48] <darksydephil> hello 
+[11:50] <darksydephil> me, i love this game 
+[11:50] <darksydephil> just hope we dont suck 
+[11:50] <darksydephil> lol 
+
+[11:51] <darksydephil> not game of the year, but it’d pretty much a shoe in for a spot in the top 10 
+[12:12] <darksydephil> finally got the twitch dashbaord to load properly! 
+
+[12:12] <darksydephil> ok im going to start setting up the party 
+[12:18] <darksydephil> ok stream is starting up now 
+
+[12:43] <darksydephil> LOL this is twitch's stemming limit, of course its pixellated 
+[12:43] <darksydephil> its shit 
+
+[12:50] <darksydephil> FYI video quality is fine on my end, as ive said, its twitch stream quality being so damn 
+low for this game 
+
+[13:24] <darksydephil> walk away? i stayed in fucking place lolol 
+[13:24] <darksydephil> stop talking out of your butt 
+
+
+
+
+[13:34] <darksydephil> mccree shoudln't exist, he’s insanely stupid 
+
+[13:35] <darksydephil> mccree does fucking sniper damage and has sniper range with a handgun thats faster 
+than a sniper, gets instant reload and instant 6 shots 
+[13:35] <darksydephil> its fucking stupidity 
+
+[13:36] <darksydephil> and he shoots 500 times faster than widowmaker lol 
+
+[13:36] <darksydephil> why do you think he’s used so much and widowmaker so little? come on use your heads 
+[13:36] <darksydephil> because soldier is full auto 
+[13:36] <darksydephil> thats why lol 
+
+[13:43] <darksydephil> because twitch stream quality sucks and always has lol 
+[13:43] <darksydephil> its why i left 
+
+[13:44] <darksydephil> if it freezes on source, your connection isn’t good enough 
+
+[13:53] <darksydephil> Tracer is not a lesbian. She’s asexual, because she’s a character in an FPS with no sex in 
+it. lol 
+
+[13:54] <darksydephil> D.Va is asexual, lol. these are characters in an FPS 
+[13:55] <darksydephil> Tracer cannot be a lesbian 
+
+[13:55] <darksydephil> because there is no sexual attraction in Overwatch, it’s a shooter game 
+
+[13:55] <darksydephil> if Overwatch was a dating game or a sex game, then she’d have a sexual orientation lol 
+
+[14:17] <darksydephil> break time 
+
+[14:28] <darksydephil> ok we’re trying to set up 2nd session now 
+
+[14:28] <darksydephil> guy who is supposed to join is playing bloodborne lol 
+
+[14:31] <darksydephil> well this guy wont stop playing bloodborne so im inviting someone else 
+
+[14:32] <darksydephil> well his name is armourlight but he had a 2nd account fo overwatch 
+
+[14:32] <darksydephil> i kept sending him invites but he never accepted so...whatever lol 
+
+[14:35] <darksydephil> im not awful, im just not good either lol 
+
+[14:35] <darksydephil> i dont play enough to be 
+
+[15:22] <darksydephil> im streaming at the bitrate limit that twitch allows, if your stream quality is bad either 
+
+your internet sucks or twitch sucks, nothing i can do about it sadly 
+
+[15:22] <darksydephil> sounds like it 
+
+[15:30] <darksydephil> 500 bits is 5 bucks 
+
+[15:30] <darksydephil> each bit is a penny 
+
+[15:40] <darksydephil> YouTube.com/kogamingl 
+
+[15:40] <darksydephil> thats the channel 
+
+[15:54] <darksydephil> the best average player ever! lol 
+
+[16:09] <darksydephil> WWE Slam Crate: entire box of leftover Wade Barrett and Alberto Del Rio shirts 
+
+-#DARKSYDEPHIL 20161230-01 ZELDA OOT 3DS 2ND.LOG 
+
+[11:58] <darksydephil> hello 
+
+[11:58] <darksydephil> setting up now 
+
+[11:58] <darksydephil> should be live soon 
+
+[11:59] <darksydephil> today is the 1 month anniversary of my return to twitch! 
+
+[11:59] <darksydephil> i must talk about this on prestream 
+[12:04] <darksydephil> ok stream going live ina sec 
+[12:06] <darksydephil> hmm 
+
+[12:06] <darksydephil> so ive been thinking about the january patreon goal 
+
+[12:07] <darksydephil> i wanted to do a patrons choice playthrough again as the goal, but then i remembered, 
+last time i did that was the summer and that was the month i didnt hit hte goal lol 
+
+[12:07] <darksydephil> so now i dunno. people seemed to love patrons choice until that one dead summer month 
+
+[12:07] <darksydephil> nah, rock band is dead, nobody is gonna care about that again lol 
+
+[12:17] <darksydephil> the throat is getting better slightly every day 
+
+[12:17] <darksydephil> but it still gets tired/hoarse by the end of the stream 
+
+[12:18] <darksydephil> Rousey says she doesnt even want to fight anymore, she wants to act lol 
+
+[12:18] <darksydephil> too bad she doesn’t realize the only reason she got acting roles is because she fights 
+
+
+
+
+[12:19] <darksydephil> sadly ive determined nobody is going to watch another FF game right now 
+
+[12:19] <darksydephil> especially just after ffxv and with other niche stuff going on like zelda 
+
+[12:20] <darksydephil> to play it later 
+
+[12:20] <darksydephil> yeah, but pokemon is almost done 
+
+[12:20] <darksydephil> ive been told 2, 3 streams tops and its over 
+
+[12:21] <darksydephil> yeah, autism isn’t a joke 
+
+[12:21] <darksydephil> bye 
+
+-#DARKSYDEPHIL 20161231-01 PATREON MP EVENT 3RD.LOG 
+
+[11:41] <darksydephil> hello folks 
+
+[11:42] <darksydephil> fun day today, more patron MP and then FINALLY im working on the year end esries 
+[11:42] <darksydephil> series 
+
+[11:42] <darksydephil> it took forever but im excited for it, people always love it 
+
+[11:43] <darksydephil> yeah sadly people that buy into the hype got their balls crushed again last night and felt 
+pretty butthurt 
+
+[11:44] <darksydephil> so it looks like we’ll have a fully lobby for overwatch, but only 2-3 people for BF1 today 
+
+[11:44] <darksydephil> oh well, i tried lol 
+
+[11:44] <darksydephil> brb gonna use the restroom 
+
+[11:55] <darksydephil> ok time to set up the stream, get the fanart etc going 
+[11:57] <darksydephil> also today im going to try and capture at a higher bitrate 
+
+[11:57] <darksydephil> since i captured at 3500kbpt for youtube on thursday and the videos turned out awful 
+
+[11:57] <darksydephil> marie we'll see, i think overwatch is full though 
+
+[12:15] <darksydephil> ok setting up the first lobby now 
+
+[12:26] <darksydephil> ok stream just went live 
+
+[12:26] <darksydephil> no audio yet though fyi 
+
+[12:27] <darksydephil> bit twhoa wtf was that 
+
+[12:27] <darksydephil> stream is corrupting lol 
+
+[12:27] <darksydephil> i think twitch may be a bit messed up today 
+
+[12:28] <darksydephil> ok just tweeted that we’re live 
+
+[12:31] <darksydephil> tigerpowered im down for that 
+
+[13:21] <darksydephil> theres seriously no way to stream this game on twitch and make it look good without 
+preferential treatment lol 
+
+[13:21] <darksydephil> 3500kbps is so ass for 60fps games 
+
+[13:28] <darksydephil> according to streamlabs there have been no subs and cheers, wtf are you talking about? 
+lol 
+
+[13:28] <darksydephil> i just did 
+
+[13:29] <darksydephil> call me an idiot, goodbye, dont care if you’re sub, you dont get to blatantly insult me 
+[13:30] <darksydephil> i dont care what he was lol. literally sitting here talking shit, he can fuck off 
+[13:43] <darksydephil> i love how everyone talks about damage dropoff with mccree, yet he still kills pharah 
+and most charcaters from far range anyway lol 
+
+[14:36] <darksydephil> anybody else want to play BF1 with us or will it just be us 3? 
+
+[14:37] <darksydephil> yeah ive gotten nothing today, no cheers nad no subs 
+[14:37] <darksydephil> so no shout outs either 
+[14:37] <darksydephil> oh wait, someone subbed during break 
+[14:37] <darksydephil> ok ill shout that out at the end of stream then 
+[14:37] <darksydephil> nice thanks retro! 
+
+[14:37] <darksydephil> and you someone 
+
+[14:38] <darksydephil> if that guy gets on everyones nerves again, ill perm ban him 
+[14:38] <darksydephil> i see him causin trouble in here 
+
+[14:39] <darksydephil> codeyaha he’s shitting on my review style and then hes purposely trolling, asking me to 
+play SFV which 1. i said im never playing again and 2. during a patron event stream which he knows i cant swap 
+games 
+
+
+
+
+[14:39] <darksydephil> basically, he's a fucking idiot 
+[14:39] <darksydephil> nad idiots dont get free reign in here 
+[14:40] <darksydephil> trying to get set up here 
+[14:40] <darksydephil> but a player isn't responding, sigh 
+[14:40] <darksydephil> now it may just be me and 1 person lol 
+
+[14:40] <darksydephil> i have no idea why everyone wants overwatch and nobody wanted any other games 
+
+[14:40] <darksydephil> i offered 7 lol 
+
+[14:41] <darksydephil> goodbye to another idiot 
+
+[16:08] <darksydephil> why do idiots keep saying bloodborne die? i dont own the game, i dont have any save 
+
+data, its literally impossible, but dummies keep saying it 
+
+[16:13] <darksydephil> i havent played this game enouh to know any maps lol 
+
+[16:13] <darksydephil> i only played it twice and then these patron sessions 
+
+[16:17] <darksydephil> theres nothing scary about the game gino, dont even fucking start 
+
+
+
